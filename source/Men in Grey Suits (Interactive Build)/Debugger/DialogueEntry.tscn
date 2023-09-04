@@ -1,0 +1,29 @@
+[gd_scene load_steps=7 format=3 uid="uid://b7f7mngr7rtu3"]
+
+[ext_resource type="FontFile" uid="uid://djixdrvhrg67l" path="res://Assets/Fonts/Downloads/TangoSans.ttf" id="1_uts4c"]
+[ext_resource type="Script" path="res://Debugger/DialogueEntry.cs" id="2_5texx"]
+[ext_resource type="FontFile" uid="uid://pwklxtwd2keo" path="res://Assets/Fonts/Downloads/TangoSansBold.ttf" id="2_u6d3d"]
+[ext_resource type="FontFile" uid="uid://bi32n1ktec1ic" path="res://Assets/Fonts/Downloads/TangoSansItalic.ttf" id="3_3onde"]
+[ext_resource type="FontFile" uid="uid://bppj3f4s6xp8a" path="res://Assets/Fonts/Downloads/TangoSansBoldItalic.ttf" id="4_ctmxl"]
+
+[sub_resource type="FontVariation" id="FontVariation_o7nhp"]
+base_font = ExtResource("1_uts4c")
+
+[node name="DialogueEntry" type="RichTextLabel"]
+clip_contents = false
+offset_right = 1280.0
+offset_bottom = 128.0
+size_flags_horizontal = 3
+theme_override_colors/default_color = Color(0, 0.839216, 1, 1)
+theme_override_fonts/normal_font = SubResource("FontVariation_o7nhp")
+theme_override_fonts/bold_font = ExtResource("2_u6d3d")
+theme_override_fonts/italics_font = ExtResource("3_3onde")
+theme_override_fonts/bold_italics_font = ExtResource("4_ctmxl")
+theme_override_font_sizes/normal_font_size = 32
+theme_override_font_sizes/bold_font_size = 32
+theme_override_font_sizes/italics_font_size = 32
+theme_override_font_sizes/bold_italics_font_size = 32
+bbcode_enabled = true
+text = "Lorem ipsum..."
+fit_content = true
+script = ExtResource("2_5texx")

@@ -1,0 +1,395 @@
+{
+  "START": {
+    "EDGES": [ "A-0", "B-0", "C-0", "D-0", "Y-0", "Z-0" ]
+  },
+  "A-0": {
+    "DIEGESIS": "pondering why we've all been convened here tonight",
+    "EDGES": [ "A-1", "A-2", "A-3" ],
+    "MODE": "SMALL TALK"
+  },
+  "A-1": {
+    "DIEGESIS": "saying the current Government is in existential crisis",
+    "EDGES": [ "A-0", "A-2" ],
+    "MODE": "RUMOUR"
+  },
+  "A-2": {
+    "DIEGESIS": "spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}",
+    "MIMESES": {
+      "#G": "Not that it's, you know...- it wouldn't be my place to get involved..."
+    },
+    "ROLES": {
+      "GRANDEE #1": {
+        "IDENTITIES": [ "#A", "#D", "#E", "#F" ],
+        "IMPLICATIONs": [ "NO CONFIDENCE" ],
+        "MULTIROLE": true
+      },
+      "GRANDEE #2": {
+        "IDENTITIES": [ "#A", "#D", "#E", "#F" ],
+        "IMPLICATIONs": [ "NO CONFIDENCE" ],
+        "MULTIROLE": true
+      },
+      "#a": {
+        "IDENTITIES": [ "#a" ],
+        "IMPLICATIONS": [ "UNELECTABLE" ]
+      }
+    },
+    "EDGES": [ "A-0", "A-1", "A-4", "A-5" ],
+    "MODE": "RUMOUR"
+  },
+  "A-3": {
+    "DIEGESIS": "suggesting {#A} organised this evening as his grand return to politics",
+    "MIMESES": {
+      "#A": "Rather inspired, eh? A charming evening with my nearest and dearest - and a couple of key decision-makers..."
+    },
+    "ROLES": {
+      "#A": { "IDENTITIES": [ "#A" ] }
+    },
+    "EDGES": [ "A-1", "A-2", "A-3", "A-4" ],
+    "MODE": "RUMOUR"
+  },
+  "A-4": {
+    "DIEGESIS": "accusing {#A} of positioning himself to swoop in as the go-to caretaker PM",
+    "MIMESES": {
+      "#A": "\"-Should we ever need one! But I do have every faith in The Prime Minister.\""
+    },
+    "ROLES": {
+      "#A": {
+        "IDENTITIES": [ "#A" ],
+        "IMPLICATIONS": [ "NO CONFIDENCE" ]
+      }
+    },
+    "EDGES": [ "A-2" ],
+    "MODE": "RUMOUR"
+  },
+  "A-5": {
+    "DIEGESIS": "insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings",
+    "ROLES": {
+      "SOVIET GRANDEE": {
+        "IDENTITIES": [ "#D", "#E", "#F" ],
+        "IMPLICATIONS": [ "COMMUNIST" ]
+      }
+    },
+    "EDGES": [ "A-2", "C-1", "C-6", "C11", "D-9", "Z-2" ],
+    "MODE": "RUMOUR"
+  },
+  "A-6": {
+    "DIEGESIS": "complaining that {#K} had to be here",
+    "ROLES": {
+      "#K": { "IDENTITIES": [ "#K" ] }
+    },
+    "EDGES": [ "A-0", "A-1", "C-0", "C-1", "C-3" ],
+    "MODE": "SMALL TALK"
+  },
+  "B-0": {
+    "DIEGESIS": "worrying about threats to the party, within and without",
+    "EDGES": [ "A-1", "A-2", "B-1", "B-2", "C-1", "D-2", "D10" ],
+    "MODE": "SMALL TALK"
+  },
+  "B-1": {
+    "DIEGESIS": "passing on that the opposition are planning to trigger a vote of no confidence",
+    "EDGES": [ "A-1", "A-2", "B-2", "B-3" ],
+    "MODE": "RUMOUR"
+  },
+  "B-2": {
+    "DIEGESIS": "stating straight out that {CHALLENGER} is prepared to run against {#a}",
+    "ROLES": {
+      "CHALLENGER": {
+        "IDENTITIES": [ "#A", "#H", "#J" ],
+        "IMPLICATIONS": [ "NO CONFIDENCE", "LEADERSHIP BID" ]
+      },
+      "#a": {
+        "IDENTITIES": [ "#a" ]
+      }
+    },
+    "EDGES": [ "A-1", "A-2", "B-3" ],
+    "MODE": "RUMOUR"
+  },
+  "B-3": {
+    "DIEGESIS": "alleging the Americans want {#a} gone after a series of diplomatic faux pas",
+    "ROLES": {
+      "#a": {
+        "IDENTITIES": [ "#a" ]
+      }
+    },
+    "EDGES": [ "A-1", "A-2", "D-3" ],
+    "MODE": "RUMOUR"
+  },
+  "C-0": {
+    "DIEGESIS": "fretting about the next round of 'Home Office Hearings'",
+    "EDGES": [ "C-1", "C-4", "C-9" ],
+    "MODE": "SMALL TALK"
+  },
+  "C-1": {
+    "DIEGESIS": "ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government",
+    "ROLES": {
+      "#K": {
+        "IDENTITIES": [ "#K" ],
+        "IMPLICATIONS": [ "COLD WARRIOR" ]
+      }
+    },
+    "EDGES": [ "A-5", "B-0", "C-0", "C-2", "C-3", "C-4", "C-5", "C-6", "Z-2" ]
+  },
+  "C-2": {
+    "DIEGESIS": "saying that {#K}'s got a 'star witness' ready to names names, by all accounts",
+    "ROLES": {
+      "STAR WITNESS": {
+        "IMPLICATIONS": [ "COLD WARRIOR" ]
+      },
+      "#K": {
+        "IDENTITIES": [ "#K" ],
+        "IMPLICATIONS": [ "COLD WARRIOR" ]
+      }
+    },
+    "EDGES": [ "C-1", "C-4", "C-6", "C-7", "C-9", "C10", "Z-2" ],
+    "MODE": "RUMOUR"
+  },
+  "C-3": {
+    "DIEGESIS": "conceding that {#K} does represent a small but frighteningly influential faction of our coalition",
+    "ROLES": {
+      "#K": {
+        "IDENTITIES": [ "#K" ]
+      }
+    },
+    "EDGES": [ "A-1", "A-6", "C-0", "C-1", "C-6" ],
+    "MODE": "RUMOUR"
+  },
+  "C-4": {
+    "DIEGESIS": "stating that these anti-communism hearings are all part of a conspiracy to undermine the party",
+    "ROLES": {
+      "#K": {
+        "IDENTITIES": [ "#K" ],
+        "IMPLICATIONS": [ "NO CONFIDENCE" ]
+      },
+      "STAR WITNESS": {
+        "IMPLICATIONS": [ "NO CONFIDENCE" ]
+      },
+      "MCCARTHY": {
+        "IMPLICATIONS": [ "NO CONFIDENCE" ]
+      }
+    },
+    "EDGES": [ "C-2", "C-5", "C-9" ],
+    "MODE": "RUMOUR"
+  },
+  "C-5": {
+    "DIEGESIS": "theorising these hearings are actually Government-sanctioned, a deliberate distraction from real scandals",
+    "EDGES": [ "C-2", "C-4", "D-2" ],
+    "MODE": "RUMOUR"
+  },
+  "C-6": {
+    "DIEGESIS": "spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions",
+    "ROLES": {
+      "MCCARTHY": {
+        "IDENTITIES": [ "#A", "#G", "#J" ],
+        "IMPLICATIONS": [ "COLD WARRIOR" ]
+      },
+      "#K": {
+        "IDENTITIES": [ "#K" ],
+        "IMPLICATIONS": [ "COLD WARRIOR" ]
+      }
+    },
+    "EDGES": [ "C-2", "C-4", "C-5", "C-9" ],
+    "MODE": "RUMOUR"
+  },
+  "C-7": {
+    "DIEGESIS": "asserting that the only people testifying against the cabinet have their own eyes on the leadership",
+    "ROLES": {
+      "STAR WITNESS": {
+        "IMPLICATIONS": [ "LEADERSHIP BID" ]
+      }
+    },
+    "EDGES": [ "C-4", "C-8", "C-9" ],
+    "MODE": "RUMOUR"
+  },
+  "C-8": {
+    "DIEGESIS": "implying that {#K}'s 'mystery witness' is none other than {STAR WITNESS}",
+    "ROLES": {
+      "STAR WITNESS": {
+        "IDENTITIES": [ "#I", "#J" ],
+        "IMPLICATIONS": [ "COLD WARRIOR" ]
+      },
+      "#K": {
+        "IDENTITIES": [ "#K" ],
+        "IMPLICATIONS": [ "COLD WARRIOR" ]
+      }
+    },
+    "EDGES": [ "C-4", "C-7", "C-9", "C10" ],
+    "MODE": "RUMOUR"
+  },
+  "C-9": {
+    "DIEGESIS": "joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore",
+    "ROLES": {
+      "COLLEAGUE": {
+        "IDENTITIES": [ "#D", "#E", "#F", "#G", "#H", "#I", "#J", "#a", "#b", "#c", "#d" ],
+        "IMPLICATIONS": [ "UNELECTABLE" ],
+        "MULTIROLE": true
+      }
+    },
+    "EDGES": [ "C-0", "C-2", "C-7" ],
+    "MODE": "JOKE"
+  },
+  "C10": {
+    "DIEGESIS": "relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason",
+    "ROLES": {
+      "SCAPEGOAT": {
+        "IDENTITIES": [ "#H", "#d" ],
+        "IMPLICATIONS": [ "UNELECTABLE", "COMMUNIST" ]
+      }
+    },
+    "EDGES": [ "C-0", "C-2", "C-7", "C-9", "C11" ],
+    "MODE": "RUMOUR"
+  },
+  "C11": {
+    "DIEGESIS": "regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him",
+    "ROLES": {
+      "#A": {
+        "IDENTITIES": [ "#A" ],
+        "IMPLICATIONS": [ "NO CONFIDENCE" ]
+      },
+      "#a": {
+        "IDENTITIES": [ "#a" ],
+        "IMPLICATIONS": [ "NO CONFIDENCE" ]
+      }
+    },
+    "EDGES": [ "A-2", "B-1", "C-0", "C-2", "C-7" ]
+  },
+  "D-0": {
+    "DIEGESIS": "reflecting on recent rumours circulated in the printed press",
+    "EDGES": [ "D-1", "D-2" ],
+    "MODE": "SMALL TALK"
+  },
+  "D-1": {
+    "DIEGESIS": "remembering when The Herald ran that front page on {#b}'s coke habit",
+    "MIMESES": {
+      "#I": "The man uses a brick of it as a paperweight, for crying out loud!"
+    },
+    "ROLES": {
+      "#b": {
+        "IDENTITIES": [ "#b" ],
+        "IMPLICATIONS": [ "UNELECTABLE" ]
+      }
+    },
+    "EDGES": [ "D-2", "D-6", "D-7", "D10" ],
+    "MODE": "RUMOUR"
+  },
+  "D-2": {
+    "DIEGESIS": "warning that, apparently, The Standard's got ahold of something major",
+    "EDGES": [ "A-5", "B-2", "D-3", "D-5", "D-6", "Z-2" ],
+    "MODE": "RUMOUR"
+  },
+  "D-3": {
+    "DIEGESIS": "saying they've heard word about a 'massive intelligence failure abroad'",
+    "EDGES": [ "C-1", "C10", "C11", "D-4", "D-5" ],
+    "MODE": "RUMOUR"
+  },
+  "D-4": {
+    "DIEGESIS": "joking that a 'massive intelligence failure abroad' sounds just like {FAILURE ABROAD}",
+    "ROLES": {
+      "FAILURE ABROAD": {
+        "IDENTITIES": [ "#H", "#d" ],
+        "IMPLICATIONS": [ "UNELECTABLE" ]
+      }
+    },
+    "EDGES": [],
+    "MODE": "RUMOUR"
+  },
+  "D-5": {
+    "DIEGESIS": "talking about a highly clandestine overseas program - with {PROGRAM ARCHITECT}'s fingerprints all over it - that's breached",
+    "ROLES": {
+      "PROGRAM ARCHITECT": {
+        "IDENTITIES": [ "#H", "#J", "#d" ],
+        "IMPLICATIONS": [ "UNELECTABLE" ]
+      }
+    },
+    "EDGES": [ "C-1", "C10", "C11", "N-0" ],
+    "MODE": "RUMOUR"
+  },
+  "D-6": {
+    "DIEGESIS": "asking if the tabloids have made any murmurings - anything at all - about party finances",
+    "EDGES": [ "D-0", "D-2", "D-3" ],
+    "MODE": "RUMOUR"
+  },
+  "D-7": {
+    "DIEGESIS": "characterising {LEAK} as a slippery bastard, the likely source of recent leaks",
+    "ROLES": {
+      "LEAK": {
+        "IDENTITIES": [ "#H", "#I", "#J" ],
+        "IMPLICATIONS": [ "NO CONFIDENCE" ]
+      }
+    },
+    "EDGES": [ "D-0", "D-2", "D-8", "D-9" ],
+    "MODE": "RUMOUR"
+  },
+  "D-8": {
+    "DIEGESIS": "asserting the leak within government must be doing it to advance their own career",
+    "ROLES": {
+      "LEAK": {
+        "IMPLICATIONS": [ "LEADERSHIP BID" ]
+      }
+    },
+    "EDGES": [ "B-2", "D-0", "D-2", "D-7", "D-9" ],
+    "MODE": "RUMOUR"
+  },
+  "D-9": {
+    "DIEGESIS": "speculating that whomever is leaking against the government must be part of the fifth column, so vicious they are in their subversive activities",
+    "ROLES": {
+      "LEAK": {
+        "IMPLICATIONS": [ "COMMUNIST" ]
+      }
+    },
+    "EDGES": [ "A-5", "C-0", "C-1", "C10", "C11", "D-0", "D-2", "D-7", "D-8", "Z-2" ],
+    "MODE": "RUMOUR"
+  },
+  "D10": {
+    "DIEGESIS": "gossiping that the papers are likely to run that {ADULTERER}'s been cheating on his wife with {OTHER WOMAN}",
+    "ROLES": {
+      "ADULTERER": {
+        "IDENTITIES": [ "#A", "#H", "#J" ],
+        "IMPLICATIONS": [ "UNELECTABLE" ]
+      },
+      "OTHER WOMAN": {
+        "IDENTITIES": [ "#B", "#K" ],
+        "IMPLICATIONS": [ "UNELECTABLE" ]
+      }
+    },
+    "EDGES": [ "D-1", "D-2", "D-6", "D-7" ],
+    "MODE": "RUMOUR"
+  },
+  "N-0": {
+    "DIEGESIS": "stopping the conversation dead",
+    "EDGES": [],
+    "MODE": "SMALL TALK"
+  },
+  "Y-0": {
+    "DIEGESIS": "grumbling about the recent weather",
+    "EDGES": [],
+    "MODE": "SMALL TALK"
+  },
+  "Z-0": {
+    "DIEGESIS": "making small talk about The Ashes",
+    "MIMESES": {
+      "#A": "Yes, rather a good test the other day, what!"
+    },
+    "EDGES": [ "Z-1" ],
+    "MODE": "SMALL TALK"
+  },
+  "Z-1": {
+    "DIEGESIS": "sniping about how {CRICKETER} never stops talking about his Blue in cricket",
+    "ROLES": {
+      "CRICKETER": {
+        "IDENTITIES": [ "#H", "#I" ],
+        "MULTIROLE": true
+      }
+    },
+    "EDGES": [ "Z-0", "Z-2" ]
+  },
+  "Z-2": {
+    "DIEGESIS": "divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol",
+    "ROLES": {
+      "MARXIST STUDENT": {
+        "IDENTITIES": [ "#H", "#I", "#K" ]
+      }
+    },
+    "EDGES": [ "C-1", "Z-1" ],
+    "MODE": "RUMOUR"
+  }
+}

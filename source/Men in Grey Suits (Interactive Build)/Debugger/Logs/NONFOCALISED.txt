@@ -1,0 +1,133 @@
+		 7.00pm, : A is talking with B, C.
+		 A segues to talking about A-0.
+		 The conversation takes place openly. Still, no one overhears.
+						   action: talk.
+						   actor: A.
+						   audience: A, B, C.
+						   final diegesis: talking about A-0.
+						   final line: A-0.
+						   focalisation: NONFOCALISED.
+						   initial line: START.
+						   initial setting: .
+						   internal audience: A, B, C.
+
+		 7.01pm, : C is talking with A, B.
+		 They are talking about A-0.
+		 C segues to joking about A-3.
+		 The conversation takes place openly. Still, no one overhears.
+						   action: talk.
+						   actor: C.
+						   audience: A, B, C.
+						   final diegesis: joking about A-3.
+						   final line: A-3.
+						   focalisation: NONFOCALISED.
+						   initial diegesis: talking about A-0.
+						   initial line: A-0.
+						   initial setting: .
+						   internal audience: A, B, C.
+
+		 7.02pm, : B is talking with A, C.
+		 They are joking about A-3.
+		 B segues to gossiping about A-2.
+		 The conversation takes place openly. Still, no one overhears.
+						   action: talk.
+						   actor: B.
+						   audience: A, B, C.
+						   final diegesis: gossiping about A-2.
+						   final line: A-2.
+						   focalisation: NONFOCALISED.
+						   initial diegesis: joking about A-3.
+						   initial line: A-3.
+						   initial setting: .
+						   internal audience: A, B, C.
+
+		 7.03pm, : A is talking with B, C.
+		 They are gossiping about A-2.
+		 A segues to talking about A-1.
+		 The conversation takes place openly. Still, no one overhears.
+						   action: talk.
+						   actor: A.
+						   audience: A, B, C.
+						   final diegesis: talking about A-1.
+						   final line: A-1.
+						   focalisation: NONFOCALISED.
+						   initial diegesis: gossiping about A-2.
+						   initial line: A-2.
+						   initial setting: .
+						   internal audience: A, B, C.
+
+		 7.04pm, : C is talking with A, B.
+		 They are talking about A-1.
+		 C segues to joking about A-3.
+		 The conversation takes place openly. Still, no one overhears.
+						   action: talk.
+						   actor: C.
+						   audience: A, B, C.
+						   final diegesis: joking about A-3.
+						   final line: A-3.
+						   focalisation: NONFOCALISED.
+						   initial diegesis: talking about A-1.
+						   initial line: A-1.
+						   initial setting: .
+						   internal audience: A, B, C.
+
+		 7.05pm, : A is talking with B, C.
+		 They are joking about A-3.
+		 A segues to gossiping about A-2.
+		 The conversation takes place openly. Still, no one overhears.
+						   action: talk.
+						   actor: A.
+						   audience: A, B, C.
+						   final diegesis: gossiping about A-2.
+						   final line: A-2.
+						   focalisation: NONFOCALISED.
+						   initial diegesis: joking about A-3.
+						   initial line: A-3.
+						   initial setting: .
+						   internal audience: A, B, C.
+
+		 7.06pm, : B is talking with A, C.
+		 They are gossiping about A-2.
+		 B segues to talking about A-1.
+		 The conversation takes place openly. Still, no one overhears.
+						   action: talk.
+						   actor: B.
+						   audience: A, B, C.
+						   final diegesis: talking about A-1.
+						   final line: A-1.
+						   focalisation: NONFOCALISED.
+						   initial diegesis: gossiping about A-2.
+						   initial line: A-2.
+						   initial setting: .
+						   internal audience: A, B, C.
+
+		 7.07pm, : C is talking with A, B.
+		 They are talking about A-1.
+		 C segues to talking about A-0.
+		 The conversation takes place openly. Still, no one overhears.
+						   action: talk.
+						   actor: C.
+						   audience: A, B, C.
+						   final diegesis: talking about A-0.
+						   final line: A-0.
+						   focalisation: NONFOCALISED.
+						   initial diegesis: talking about A-1.
+						   initial line: A-1.
+						   initial setting: .
+						   internal audience: A, B, C.
+
+		 7.08pm, : A is talking with B, C.
+		 They are talking about A-0.
+		 A segues to gossiping about A-2.
+		 The conversation takes place openly. Still, no one overhears.
+						   action: talk.
+						   actor: A.
+						   audience: A, B, C.
+						   final diegesis: gossiping about A-2.
+						   final line: A-2.
+						   focalisation: NONFOCALISED.
+						   initial diegesis: talking about A-0.
+						   initial line: A-0.
+						   initial setting: .
+						   internal audience: A, B, C.
+

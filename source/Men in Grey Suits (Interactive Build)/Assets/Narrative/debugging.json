@@ -1,0 +1,25 @@
+{
+  "START": {
+    "EDGES": [ "A-0" ]
+  },
+  "A-0": {
+    "DIEGESIS": "talking about A-0",
+    "EDGES": [ "A-1", "A-2", "A-3" ],
+    "MODE": "SMALL TALK"
+  },
+  "A-1": {
+    "DIEGESIS": "talking about A-1",
+    "EDGES": [ "A-0", "A-2", "A-3" ],
+    "MODE": "SMALL TALK"
+  },
+  "A-2": {
+    "DIEGESIS": "gossiping about A-2",
+    "EDGES": [ "A-0", "A-1", "A-3" ],
+    "MODE": "RUMOUR"
+  },
+  "A-3": {
+    "DIEGESIS": "joking about A-3",
+    "EDGES": [ "A-0", "A-1", "A-2" ],
+    "MODE": "JOKE"
+  }
+}

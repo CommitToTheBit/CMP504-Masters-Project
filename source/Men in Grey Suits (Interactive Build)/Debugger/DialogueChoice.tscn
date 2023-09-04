@@ -1,0 +1,61 @@
+[gd_scene load_steps=6 format=3 uid="uid://durmwuqw2ap6g"]
+
+[ext_resource type="Script" path="res://Debugger/DialogueChoice.cs" id="1_0mo4b"]
+[ext_resource type="FontFile" uid="uid://bi32n1ktec1ic" path="res://Assets/Fonts/Downloads/TangoSansItalic.ttf" id="2_e4scc"]
+[ext_resource type="Shader" path="res://Assets/DialogueChoice.gdshader" id="2_y1fhe"]
+[ext_resource type="FontFile" uid="uid://bppj3f4s6xp8a" path="res://Assets/Fonts/Downloads/TangoSansBoldItalic.ttf" id="4_c8v7m"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_i40bl"]
+resource_local_to_scene = true
+shader = ExtResource("2_y1fhe")
+shader_parameter/textWidth = 128.0
+shader_parameter/hover = 0.0
+shader_parameter/scale = 1.0
+
+[node name="DialogueChoice" type="CenterContainer"]
+custom_minimum_size = Vector2(0, 64)
+offset_right = 128.0
+offset_bottom = 64.0
+script = ExtResource("1_0mo4b")
+
+[node name="OutlineContainer" type="MarginContainer" parent="."]
+layout_mode = 2
+
+[node name="Outline" type="ColorRect" parent="OutlineContainer"]
+material = SubResource("ShaderMaterial_i40bl")
+layout_mode = 2
+
+[node name="LabelContainer" type="MarginContainer" parent="OutlineContainer"]
+custom_minimum_size = Vector2(0, 64)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/margin_left = 16
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 16
+theme_override_constants/margin_bottom = 8
+
+[node name="LabelCentering" type="VBoxContainer" parent="OutlineContainer/LabelContainer"]
+layout_mode = 2
+
+[node name="Spacing #1" type="Control" parent="OutlineContainer/LabelContainer/LabelCentering"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Label" type="RichTextLabel" parent="OutlineContainer/LabelContainer/LabelCentering"]
+clip_contents = false
+layout_mode = 2
+theme_override_colors/default_color = Color(0, 0.839216, 1, 1)
+theme_override_fonts/normal_font = ExtResource("2_e4scc")
+theme_override_fonts/bold_font = ExtResource("4_c8v7m")
+bbcode_enabled = true
+text = "Lorem ipsum..."
+fit_content = true
+autowrap_mode = 0
+
+[node name="Spacing #2" type="Control" parent="OutlineContainer/LabelContainer/LabelCentering"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Button" type="Button" parent="OutlineContainer"]
+layout_mode = 2
+focus_mode = 0

@@ -1,0 +1,177 @@
+[gd_scene load_steps=20 format=3 uid="uid://cvgiftur08vu"]
+
+[ext_resource type="Script" path="res://Debugger/DialogueDebugger.cs" id="1_b6nco"]
+[ext_resource type="Texture2D" uid="uid://0tfate0u01wj" path="res://Assets/StagingGraph.png" id="2_56bm3"]
+[ext_resource type="Texture2D" uid="uid://qud5mbwt1srm" path="res://Assets/UI/PlayNormal.png" id="2_nxob7"]
+[ext_resource type="Texture2D" uid="uid://d2i2dn1qc6nan" path="res://Assets/UI/PlayPressed.png" id="3_pu6na"]
+[ext_resource type="Texture2D" uid="uid://b6ciw04p8ligo" path="res://Assets/UI/PlayHover.png" id="4_gjl7s"]
+[ext_resource type="Texture2D" uid="uid://dx7m0ma86kpf5" path="res://Assets/UI/PlayFocused.png" id="5_cors0"]
+[ext_resource type="Texture2D" uid="uid://2v5qfbyq7tjt" path="res://Assets/UI/PauseNormal.png" id="6_8hgi3"]
+[ext_resource type="Texture2D" uid="uid://32xk1oc8hhps" path="res://Assets/UI/PausePressed.png" id="7_7ml51"]
+[ext_resource type="Texture2D" uid="uid://drhoguaqi12yi" path="res://Assets/UI/PauseHover.png" id="8_ki3e4"]
+[ext_resource type="Texture2D" uid="uid://byda3li4f0mjq" path="res://Assets/UI/PauseFocused.png" id="9_c1ty0"]
+[ext_resource type="Texture2D" uid="uid://pr3wry6kt18f" path="res://Assets/UI/StopNormal.png" id="10_tkrjl"]
+[ext_resource type="Texture2D" uid="uid://s1kbc6m48ajf" path="res://Assets/UI/StopHover.png" id="12_0kh6l"]
+[ext_resource type="PackedScene" uid="uid://cfa38b284efgb" path="res://Debugger/MoveButton.tscn" id="12_apdtm"]
+[ext_resource type="Shader" path="res://Assets/Shaders/ScrollFade.gdshader" id="13_2evy2"]
+[ext_resource type="PackedScene" uid="uid://bu6xillkq3kow" path="res://Debugger/BackButton.tscn" id="13_h0w1y"]
+[ext_resource type="PackedScene" uid="uid://e64vdpktny4x" path="res://Debugger/WaitButton.tscn" id="14_aurrh"]
+[ext_resource type="Shader" path="res://Assets/HScrollFade.gdshader" id="14_uvpyq"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_r3jfv"]
+shader = ExtResource("13_2evy2")
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_ii2oc"]
+shader = ExtResource("14_uvpyq")
+
+[node name="DialogueDebugger" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+script = ExtResource("1_b6nco")
+
+[node name="Background" type="ColorRect" parent="."]
+layout_mode = 0
+offset_right = 1280.0
+offset_bottom = 720.0
+
+[node name="Centering" type="MarginContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 32
+theme_override_constants/margin_top = 32
+theme_override_constants/margin_right = 32
+theme_override_constants/margin_bottom = 32
+
+[node name="DebuggerUI" type="VBoxContainer" parent="Centering"]
+layout_mode = 2
+theme_override_constants/separation = 9
+
+[node name="TraceScroll" type="ScrollContainer" parent="Centering/DebuggerUI"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="TraceContainer" type="VBoxContainer" parent="Centering/DebuggerUI/TraceScroll"]
+use_parent_material = true
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 32
+
+[node name="Spacing #1" type="Control" parent="Centering/DebuggerUI/TraceScroll/TraceContainer"]
+layout_mode = 2
+
+[node name="Spacing #2" type="Control" parent="Centering/DebuggerUI/TraceScroll/TraceContainer"]
+layout_mode = 2
+
+[node name="MapContainer" type="HBoxContainer" parent="Centering/DebuggerUI"]
+visible = false
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Spacing #1" type="Control" parent="Centering/DebuggerUI/MapContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Map" type="TextureRect" parent="Centering/DebuggerUI/MapContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+texture = ExtResource("2_56bm3")
+expand_mode = 3
+
+[node name="Spacing #2" type="Control" parent="Centering/DebuggerUI/MapContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="ButtonCentering" type="CenterContainer" parent="Centering/DebuggerUI"]
+layout_mode = 2
+
+[node name="ButtonContainer" type="HBoxContainer" parent="Centering/DebuggerUI/ButtonCentering"]
+custom_minimum_size = Vector2(1216, 0)
+layout_mode = 2
+theme_override_constants/separation = 9
+
+[node name="PlayButton" type="TextureButton" parent="Centering/DebuggerUI/ButtonCentering/ButtonContainer"]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+texture_normal = ExtResource("2_nxob7")
+texture_pressed = ExtResource("3_pu6na")
+texture_hover = ExtResource("4_gjl7s")
+texture_focused = ExtResource("5_cors0")
+
+[node name="PauseButton" type="TextureButton" parent="Centering/DebuggerUI/ButtonCentering/ButtonContainer"]
+visible = false
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+texture_normal = ExtResource("6_8hgi3")
+texture_pressed = ExtResource("7_7ml51")
+texture_hover = ExtResource("8_ki3e4")
+texture_focused = ExtResource("9_c1ty0")
+
+[node name="StopButton" type="TextureButton" parent="Centering/DebuggerUI/ButtonCentering/ButtonContainer"]
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+texture_normal = ExtResource("10_tkrjl")
+texture_pressed = ExtResource("12_0kh6l")
+texture_hover = ExtResource("12_0kh6l")
+
+[node name="Spacing #1" type="Control" parent="Centering/DebuggerUI/ButtonCentering/ButtonContainer"]
+visible = false
+layout_mode = 2
+
+[node name="ChoiceScroll" type="ScrollContainer" parent="Centering/DebuggerUI/ButtonCentering/ButtonContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="ChoiceContainer" type="HBoxContainer" parent="Centering/DebuggerUI/ButtonCentering/ButtonContainer/ChoiceScroll"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme_override_constants/separation = 9
+
+[node name="Spacing #1" type="Control" parent="Centering/DebuggerUI/ButtonCentering/ButtonContainer/ChoiceScroll/ChoiceContainer"]
+custom_minimum_size = Vector2(9, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Spacing #2" type="Control" parent="Centering/DebuggerUI/ButtonCentering/ButtonContainer/ChoiceScroll/ChoiceContainer"]
+custom_minimum_size = Vector2(9, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="MoveButton" parent="Centering/DebuggerUI/ButtonCentering/ButtonContainer" instance=ExtResource("12_apdtm")]
+visible = false
+layout_mode = 2
+
+[node name="BackButton" parent="Centering/DebuggerUI/ButtonCentering/ButtonContainer" instance=ExtResource("13_h0w1y")]
+visible = false
+layout_mode = 2
+
+[node name="WaitButton" parent="Centering/DebuggerUI/ButtonCentering/ButtonContainer" instance=ExtResource("14_aurrh")]
+visible = false
+layout_mode = 2
+
+[node name="TraceFade" type="ColorRect" parent="."]
+material = SubResource("ShaderMaterial_r3jfv")
+layout_mode = 0
+offset_right = 1280.0
+offset_bottom = 720.0
+mouse_filter = 2
+color = Color(1, 1, 1, 0)
+
+[node name="ChoiceFade" type="ColorRect" parent="."]
+material = SubResource("ShaderMaterial_ii2oc")
+layout_mode = 0
+offset_right = 1280.0
+offset_bottom = 720.0
+mouse_filter = 2
+color = Color(1, 1, 1, 0)
