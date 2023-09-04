@@ -115,11 +115,10 @@ public partial class SiftingUnexpectedness : Node
             text += "\n}\n\n";
         }
 
-        File.WriteAllText(Environment.CurrentDirectory.Split("bin")[0] + "Sifting/Sifting Heuristics/LIKELIHOODS.txt", text);
-        if (temporaries)
-            File.WriteAllText(Environment.CurrentDirectory.Split("bin")[0] + "Sifting/Sifting Heuristics/" + timestamp + " LIKELIHOODS.txt", text);
-
-        File.WriteAllText(Environment.CurrentDirectory.Split("bin")[0] + "Sifting/Sifting Heuristics/LIKELIHOODS.json", JsonSerializer.Serialize(totalPropertyCounts));
+        if (OS.IsDebugBuild())
+        {
+            File.WriteAllText(ProjectSettings.GlobalizePath("Assets/Narrative/LIKELIHOODS.json"), JsonSerializer.Serialize(totalPropertyCounts));
+        }
     }*/
 
     public Microanthology SurfaceMicrostories(Microanthology microanthology, int count = int.MaxValue)
