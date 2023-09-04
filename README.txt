@@ -1,3 +1,5 @@
+[Each run: new seed; seed changes on opening...]
+
 [Write non-interactive build description...]
 
 In the interests of 'showing my working', the 'source' folder also includes the code used to calculate edit distances in Table 4.5 of the dissertation. 
