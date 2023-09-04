@@ -24,8 +24,8 @@ class Program
         int duration = 60;
 
         // NB: The current LIKELIHOODS.json was generated over 50 rehearsals...
-        // ...but 3 is much faster for video demonstration purposes!
-        int rehearsalCount = 3;
+        // ...but 1 is sufficient for video demonstration purposes!
+        int rehearsalCount = 1;
 
         int microstorySampleSize = 5;
 
