@@ -1,0 +1,2 @@
+Video demonstration of both the interactive and non-interactive builds can be found in the 'docs' folder.
+The submission also contains the project's dissertation, research poster, and the slides used in its Viva Voce.
