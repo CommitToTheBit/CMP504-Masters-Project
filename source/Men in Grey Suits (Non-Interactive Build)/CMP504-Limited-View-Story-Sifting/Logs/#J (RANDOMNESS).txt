@@ -1,0 +1,289 @@
+RUMOUR, MICROSTORY #1:
+         NARRATIVE OF #J:
+         7.26pm, the downstairs: #J is talking with #H.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #H segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #J can tell #H is misinformed about #D being the 'SOVIET GRANDEE' in their midst (earlier, #K told #J this was actually #F).
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #D.
+
+RUMOUR, MICROSTORY #2:
+         NARRATIVE OF #J:
+         7.54pm, the billiards room: #J is talking with #K, #N.
+         They are pondering why we've all been convened here tonight.
+         #J segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #J has a longstanding vendetta against #A.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #D.
+
+RUMOUR, MICROSTORY #3:
+         NARRATIVE OF #J:
+         7.02pm, the downstairs: #J is talking with #C, #K.
+         They are reflecting on recent rumours circulated in the printed press.
+         #J segues to worrying about threats to the party, within and without.
+         The conversation takes place openly. Still, no one overhears.
+
+RUMOUR, MICROSTORY #4:
+         NARRATIVE OF #J:
+         7.05pm, the downstairs: #J is talking with #C, #K.
+         They are pondering why we've all been convened here tonight.
+         #J segues to making small talk about The Ashes.
+         The conversation takes place openly. Still, no one overhears.
+
+RUMOUR, MICROSTORY #5:
+         NARRATIVE OF #J:
+         7.45pm, the library: #T is talking with #C, #E, #M.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #T segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. #J overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+HE SAID, SHE SAID, MICROSTORY #1:
+         NARRATIVE OF #J:
+         7.15pm, the corridor: #F is talking with someone out of sight.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         The conversation takes place with no one else around. Still, #J overhears.
+         * COLLEAGUE: #H.
+         Later, in 7.25pm, the downstairs: #J is talking with #H.
+         They are pondering why we've all been convened here tonight.
+         #J segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #J has a longstanding vendetta against #A.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #A.
+
+HE SAID, SHE SAID, MICROSTORY #2:
+         NARRATIVE OF #J:
+         7.24pm, the dining room: #I is talking with #O.
+         They are pondering why we've all been convened here tonight.
+         #I segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #J).
+         #J knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. Still, #J overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 8.00pm, the billiards room: #J is talking with #H, #K, #N.
+         They are reflecting on recent rumours circulated in the printed press.
+         #K segues to stating straight out that {CHALLENGER} is prepared to run against {#a} (a rumour hitherto unheard by #J).
+         #J knows #K has longstanding vendettas against #a, #A.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #A.
+
+HE SAID, SHE SAID, MICROSTORY #3:
+         NARRATIVE OF #J:
+         7.51pm, the billiards room: #J is talking with #K, #L, #N.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #N segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #J can tell #N is misinformed about #H being the 'SCAPEGOAT' in their midst (#J knows this is actually #d).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+         Later, in 7.52pm, the billiards room: #J is talking with #K, #L, #N.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #K segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         #J knows #K has longstanding vendettas against #a, #A.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * #A: #A.
+
+HE SAID, SHE SAID, MICROSTORY #4:
+         NARRATIVE OF #J:
+         7.43pm, the kitchens: #J is talking with #A, #B, #G, #H, #I.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #G segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #K: #K.
+         Later, in 7.54pm, the billiards room: #J is talking with #K, #N.
+         They are pondering why we've all been convened here tonight.
+         #J segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #J has a longstanding vendetta against #A.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #D.
+
+HE SAID, SHE SAID, MICROSTORY #5:
+         NARRATIVE OF #J:
+         7.16pm, the downstairs: #J is talking with #I, #K.
+         They are speculating that whomever is leaking against the government must be part of the fifth column, so vicious they are in their subversive activities.
+         #K segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         #J knows #K has longstanding vendettas against #a, #A.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * #A: #A.
+         Later, in 7.24pm, the dining room: #I is talking with #O.
+         They are pondering why we've all been convened here tonight.
+         #I segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #J).
+         #J knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. Still, #J overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+
+MEET THE CANDIDATES, MICROSTORY #1:
+         NARRATIVE OF #J:
+         7.07pm, the downstairs: #J is talking with #C, #K.
+         They are making small talk about The Ashes.
+         #K, not really paying attention to whatever #J just said, segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #J can tell #K is lying about #H being the 'MARXIST STUDENT' in their midst (this is actually #K themself!).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+         Later, in 7.24pm, the downstairs: #J is talking with #H.
+         They are gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+         #H segues to pondering why we've all been convened here tonight.
+         The conversation takes place one-on-one. No one overhears.
+         Later, in 7.41pm, the kitchens: #J is talking with #A, #B, #G, #H, #I.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #J segues to making small talk about The Ashes.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         Later, in 7.51pm, the billiards room: #J is talking with #K, #L, #N.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #N segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #J can tell #N is misinformed about #H being the 'SCAPEGOAT' in their midst (#J knows this is actually #d).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+         Later, in 7.52pm, the billiards room: #J is talking with #K, #L, #N.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #K segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         #J knows #K has longstanding vendettas against #a, #A.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * #A: #A.
+
+MEET THE CANDIDATES, MICROSTORY #2:
+         NARRATIVE OF #J:
+         7.15pm, the corridor: #F is talking with someone out of sight.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         The conversation takes place with no one else around. Still, #J overhears.
+         * COLLEAGUE: #H.
+         Later, in 7.16pm, the downstairs: #J is talking with #I, #K.
+         They are speculating that whomever is leaking against the government must be part of the fifth column, so vicious they are in their subversive activities.
+         #K segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         #J knows #K has longstanding vendettas against #a, #A.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * #A: #A.
+         Later, in 7.24pm, the dining room: #I is talking with #O.
+         They are pondering why we've all been convened here tonight.
+         #I segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #J).
+         #J knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. Still, #J overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.40pm, the kitchens: #J is talking with #A, #B, #G, #H, #I.
+         They are stating that these anti-communism hearings are all part of a conspiracy to undermine the party.
+         #A segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.58pm, the billiards room: #J is talking with #H, #K, #N.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #J segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #J is lying about #I being the 'MARXIST STUDENT' in their midst (earlier, #I told #J this was actually #K).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * MARXIST STUDENT: #I.
+
+MEET THE CANDIDATES, MICROSTORY #3:
+         NARRATIVE OF #J:
+         7.16pm, the downstairs: #J is talking with #I, #K.
+         They are speculating that whomever is leaking against the government must be part of the fifth column, so vicious they are in their subversive activities.
+         #K segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         #J knows #K has longstanding vendettas against #a, #A.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * #A: #A.
+         Later, in 7.24pm, the dining room: #I is talking with #O.
+         They are pondering why we've all been convened here tonight.
+         #I segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #J).
+         #J knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. Still, #J overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.26pm, the downstairs: #J is talking with #H.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #H segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #J can tell #H is misinformed about #D being the 'SOVIET GRANDEE' in their midst (earlier, #K told #J this was actually #F).
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #D.
+         Later, in 7.34pm, the kitchens: #J is talking with #A, #B, #G, #H.
+         They are grumbling about the recent weather.
+         #A segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         Later, in 7.51pm, the billiards room: #J is talking with #K, #L, #N.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #N segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #J can tell #N is misinformed about #H being the 'SCAPEGOAT' in their midst (#J knows this is actually #d).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+
+MEET THE CANDIDATES, MICROSTORY #4:
+         NARRATIVE OF #J:
+         7.23pm, the downstairs: #J is talking with #H.
+         They are worrying about threats to the party, within and without.
+         #J segues to gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+         The conversation takes place one-on-one. No one overhears.
+         Later, in 7.34pm, the kitchens: #J is talking with #A, #B, #G, #H.
+         They are grumbling about the recent weather.
+         #A segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         Later, in 7.52pm, the billiards room: #J is talking with #K, #L, #N.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #K segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         #J knows #K has longstanding vendettas against #a, #A.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * #A: #A.
+         Later, in 7.56pm, the billiards room: #J is talking with #K, #N.
+         They are making small talk about The Ashes.
+         #K segues to sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * CRICKETER: #H.
+         Later, in 8.00pm, the billiards room: #J is talking with #H, #K, #N.
+         They are reflecting on recent rumours circulated in the printed press.
+         #K segues to stating straight out that {CHALLENGER} is prepared to run against {#a} (a rumour hitherto unheard by #J).
+         #J knows #K has longstanding vendettas against #a, #A.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #A.
+
+MEET THE CANDIDATES, MICROSTORY #5:
+         NARRATIVE OF #J:
+         7.21pm, the downstairs: #J is talking with #H.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #J segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         The conversation takes place one-on-one. No one overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.40pm, the kitchens: #J is talking with #A, #B, #G, #H, #I.
+         They are stating that these anti-communism hearings are all part of a conspiracy to undermine the party.
+         #A segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.51pm, the billiards room: #J is talking with #K, #L, #N.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #N segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #J can tell #N is misinformed about #H being the 'SCAPEGOAT' in their midst (#J knows this is actually #d).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+         Later, in 7.52pm, the billiards room: #J is talking with #K, #L, #N.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #K segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         #J knows #K has longstanding vendettas against #a, #A.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * #A: #A.
+         Later, in 7.54pm, the billiards room: #J is talking with #K, #N.
+         They are pondering why we've all been convened here tonight.
+         #J segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #J has a longstanding vendetta against #A.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #D.
+

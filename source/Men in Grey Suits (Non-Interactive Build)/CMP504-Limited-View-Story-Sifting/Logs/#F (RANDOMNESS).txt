@@ -1,0 +1,119 @@
+RUMOUR, MICROSTORY #1:
+         NARRATIVE OF #F:
+         7.37pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #K told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+
+RUMOUR, MICROSTORY #2:
+         NARRATIVE OF #F:
+         7.22pm, the library: #R is talking with #T.
+         They are passing on that the opposition are planning to trigger a vote of no confidence.
+         #R segues to alleging the Americans want {#a} gone after a series of diplomatic faux pas (a rumour hitherto unheard by #F).
+         The conversation takes place one-on-one. Still, #F overhears.
+         * #a: #a.
+
+RUMOUR, MICROSTORY #3:
+         NARRATIVE OF #F:
+         7.19pm, the downstairs: #J is talking with #B, #H.
+         #J segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place with no one else around. Still, #F overhears.
+
+RUMOUR, MICROSTORY #4:
+         NARRATIVE OF #F:
+         7.14pm, the corridor: #F is talking with #I.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #I segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         The conversation takes place one-on-one. No one overhears.
+         * SCAPEGOAT: #d.
+
+RUMOUR, MICROSTORY #5:
+         NARRATIVE OF #F:
+         7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #1:
+         NARRATIVE OF #F:
+         7.12pm, the corridor: #F is talking with #D, #I.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #I segues to conceding that {#K} does represent a small but frighteningly influential faction of our coalition.
+         #F knows #I has a longstanding vendetta against #K.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         Later, in 7.48pm, the drawing room: #F is talking with #R, #S.
+         They are alleging the Americans want {#a} gone after a series of diplomatic faux pas.
+         #R segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * #A: #A.
+
+HE SAID, SHE SAID, MICROSTORY #2:
+         NARRATIVE OF #F:
+         7.09pm, the corridor: #F is talking with #I.
+         They are conceding that {#K} does represent a small but frighteningly influential faction of our coalition.
+         #F segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place one-on-one. No one overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #3:
+         NARRATIVE OF #F:
+         7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+         Later, in 7.55pm, the drawing room: #F is talking with #H, #I, #R.
+         They are saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         #I, confronting #F directly, segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place openly. Still, no one overhears.
+         * COLLEAGUE: #F.
+
+HE SAID, SHE SAID, MICROSTORY #4:
+         NARRATIVE OF #F:
+         7.07pm, the library: #T is talking with #D, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #T segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.56pm, the drawing room: #F is talking with #I, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F segues to implying that {#K}'s 'mystery witness' is none other than {STAR WITNESS}.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: #J.
+
+HE SAID, SHE SAID, MICROSTORY #5:
+         NARRATIVE OF #F:
+         7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+         Later, in 7.34pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #T segues to suggesting {#A} organised this evening as his grand return to politics (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. No one overhears.
+         * #A: #A.
+

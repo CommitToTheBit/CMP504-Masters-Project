@@ -1,0 +1,276 @@
+RUMOUR, MICROSTORY #1:
+         NARRATIVE OF #A:
+         7.48pm, the kitchens: #A is talking with #B, #G, #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #A segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #A has longstanding vendettas against #a, #J.
+         #A is lying about #J being the 'CHALLENGER' in their midst (this is actually #A themself!).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+
+RUMOUR, MICROSTORY #2:
+         NARRATIVE OF #A:
+         7.58pm, the library: #A is talking with #B, #C, #E, #M, #S.
+         They are reflecting on recent rumours circulated in the printed press.
+         #E segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #A can tell #E is misinformed about #J being the 'CHALLENGER' in their midst (this is actually #A themself!).
+         The conversation takes place with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+
+RUMOUR, MICROSTORY #3:
+         NARRATIVE OF #A:
+         7.41pm, the kitchens: #A is talking with #B, #G, #H, #I, #J.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #J segues to making small talk about The Ashes.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #4:
+         NARRATIVE OF #A:
+         7.41pm, the kitchens: #A is talking with #B, #G, #H, #I, #J.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #J segues to making small talk about The Ashes.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #5:
+         NARRATIVE OF #A:
+         7.43pm, the kitchens: #A is talking with #B, #G, #H, #I, #J.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #G segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #1:
+         NARRATIVE OF #A:
+         7.45pm, the kitchens: #A is talking with #B, #G, #H, #I.
+         They are conceding that {#K} does represent a small but frighteningly influential faction of our coalition.
+         #B segues to complaining that {#K} had to be here.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #K: #K.
+         Later, in 7.58pm, the library: #A is talking with #B, #C, #E, #M, #S.
+         They are reflecting on recent rumours circulated in the printed press.
+         #E segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #A can tell #E is misinformed about #J being the 'CHALLENGER' in their midst (this is actually #A themself!).
+         The conversation takes place with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+
+HE SAID, SHE SAID, MICROSTORY #2:
+         NARRATIVE OF #A:
+         7.15pm, the kitchens: #A is talking with #L.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #A segues to stating that these anti-communism hearings are all part of a conspiracy to undermine the party.
+         The conversation takes place behind closed doors, one-on-one, with no one else around. No one overhears.
+         * #K: #K.
+         * MCCARTHY: UNIDENTIFIED.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 8.00pm, the library: #A is talking with #B, #E, #M, #S.
+         They are saying they've heard word about a 'massive intelligence failure abroad'.
+         #S segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+HE SAID, SHE SAID, MICROSTORY #3:
+         NARRATIVE OF #A:
+         7.37pm, the kitchens: #A is talking with #B, #G, #H, #J.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #B segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * COLLEAGUE: #c.
+         Later, in 7.58pm, the library: #A is talking with #B, #C, #E, #M, #S.
+         They are reflecting on recent rumours circulated in the printed press.
+         #E segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #A can tell #E is misinformed about #J being the 'CHALLENGER' in their midst (this is actually #A themself!).
+         The conversation takes place with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+
+HE SAID, SHE SAID, MICROSTORY #4:
+         NARRATIVE OF #A:
+         7.24pm, the kitchens: #A is talking with #B.
+         They are stating that these anti-communism hearings are all part of a conspiracy to undermine the party.
+         #B segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         The conversation takes place behind closed doors, one-on-one, with no one else around. No one overhears.
+         * COLLEAGUE: #G.
+         Later, in 7.55pm, the library: #A is talking with #B, #C, #E, #M.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #E segues to sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         The conversation takes place with no one else around. No one overhears.
+         * CRICKETER: #H.
+
+HE SAID, SHE SAID, MICROSTORY #5:
+         NARRATIVE OF #A:
+         7.31pm, the kitchens: #A is talking with #B, #G, #H.
+         They are worrying about threats to the party, within and without.
+         #B segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #A).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #E.
+         * GRANDEE #2: #F.
+         Later, in 7.52pm, the library: #A is talking with #C, #E, #M.
+         They are saying the current Government is in existential crisis.
+         #A segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #A has a longstanding vendetta against #a.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #F.
+         * GRANDEE #2: #D.
+
+MEET THE CANDIDATES, MICROSTORY #1:
+         NARRATIVE OF #A:
+         7.32pm, the kitchens: #A is talking with #B, #G, #H.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #A segues to pondering why we've all been convened here tonight.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         Later, in 7.41pm, the kitchens: #A is talking with #B, #G, #H, #I, #J.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #J segues to making small talk about The Ashes.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         Later, in 7.52pm, the library: #A is talking with #C, #E, #M.
+         They are saying the current Government is in existential crisis.
+         #A segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #A has a longstanding vendetta against #a.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #F.
+         * GRANDEE #2: #D.
+         Later, in 7.55pm, the library: #A is talking with #B, #C, #E, #M.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #E segues to sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         The conversation takes place with no one else around. No one overhears.
+         * CRICKETER: #H.
+         Later, in 7.58pm, the library: #A is talking with #B, #C, #E, #M, #S.
+         They are reflecting on recent rumours circulated in the printed press.
+         #E segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #A can tell #E is misinformed about #J being the 'CHALLENGER' in their midst (this is actually #A themself!).
+         The conversation takes place with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+
+MEET THE CANDIDATES, MICROSTORY #2:
+         NARRATIVE OF #A:
+         7.15pm, the kitchens: #A is talking with #L.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #A segues to stating that these anti-communism hearings are all part of a conspiracy to undermine the party.
+         The conversation takes place behind closed doors, one-on-one, with no one else around. No one overhears.
+         * #K: #K.
+         * MCCARTHY: UNIDENTIFIED.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.38pm, the kitchens: #A is talking with #B, #G, #H, #J.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #H segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts (a rumour hitherto unheard by #A).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.40pm, the kitchens: #A is talking with #B, #G, #H, #I, #J.
+         They are stating that these anti-communism hearings are all part of a conspiracy to undermine the party.
+         #A segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.55pm, the library: #A is talking with #B, #C, #E, #M.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #E segues to sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         The conversation takes place with no one else around. No one overhears.
+         * CRICKETER: #H.
+         Later, in 7.58pm, the library: #A is talking with #B, #C, #E, #M, #S.
+         They are reflecting on recent rumours circulated in the printed press.
+         #E segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #A can tell #E is misinformed about #J being the 'CHALLENGER' in their midst (this is actually #A themself!).
+         The conversation takes place with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+
+MEET THE CANDIDATES, MICROSTORY #3:
+         NARRATIVE OF #A:
+         7.40pm, the kitchens: #A is talking with #B, #G, #H, #I, #J.
+         They are stating that these anti-communism hearings are all part of a conspiracy to undermine the party.
+         #A segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.42pm, the kitchens: #A is talking with #B, #G, #H, #I.
+         They are making small talk about The Ashes.
+         #A segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * MARXIST STUDENT: #K.
+         Later, in 7.52pm, the library: #A is talking with #C, #E, #M.
+         They are saying the current Government is in existential crisis.
+         #A segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #A has a longstanding vendetta against #a.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #F.
+         * GRANDEE #2: #D.
+         Later, in 7.55pm, the library: #A is talking with #B, #C, #E, #M.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #E segues to sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         The conversation takes place with no one else around. No one overhears.
+         * CRICKETER: #H.
+         Later, in 7.58pm, the library: #A is talking with #B, #C, #E, #M, #S.
+         They are reflecting on recent rumours circulated in the printed press.
+         #E segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #A can tell #E is misinformed about #J being the 'CHALLENGER' in their midst (this is actually #A themself!).
+         The conversation takes place with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+
+MEET THE CANDIDATES, MICROSTORY #4:
+         NARRATIVE OF #A:
+         7.26pm, the kitchens: #A is talking with #B.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #B segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place behind closed doors, one-on-one, with no one else around. No one overhears.
+         * #K: #K.
+         Later, in 7.34pm, the kitchens: #A is talking with #B, #G, #H, #J.
+         They are grumbling about the recent weather.
+         #A segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         Later, in 7.41pm, the kitchens: #A is talking with #B, #G, #H, #I, #J.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #J segues to making small talk about The Ashes.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         Later, in 7.55pm, the library: #A is talking with #B, #C, #E, #M.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #E segues to sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         The conversation takes place with no one else around. No one overhears.
+         * CRICKETER: #H.
+         Later, in 7.58pm, the library: #A is talking with #B, #C, #E, #M, #S.
+         They are reflecting on recent rumours circulated in the printed press.
+         #E segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #A can tell #E is misinformed about #J being the 'CHALLENGER' in their midst (this is actually #A themself!).
+         The conversation takes place with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+
+MEET THE CANDIDATES, MICROSTORY #5:
+         NARRATIVE OF #A:
+         7.40pm, the kitchens: #A is talking with #B, #G, #H, #I, #J.
+         They are stating that these anti-communism hearings are all part of a conspiracy to undermine the party.
+         #A segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.41pm, the kitchens: #A is talking with #B, #G, #H, #I, #J.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #J segues to making small talk about The Ashes.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         Later, in 7.54pm, the library: #A is talking with #C, #E, #M.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #A segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #A has a longstanding vendetta against #H.
+         #A is lying about #H being the 'MARXIST STUDENT' in their midst (#A knows this is actually #K).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+         Later, in 7.55pm, the library: #A is talking with #B, #C, #E, #M.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #E segues to sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         The conversation takes place with no one else around. No one overhears.
+         * CRICKETER: #H.
+         Later, in 7.58pm, the library: #A is talking with #B, #C, #E, #M, #S.
+         They are reflecting on recent rumours circulated in the printed press.
+         #E segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #A can tell #E is misinformed about #J being the 'CHALLENGER' in their midst (this is actually #A themself!).
+         The conversation takes place with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+

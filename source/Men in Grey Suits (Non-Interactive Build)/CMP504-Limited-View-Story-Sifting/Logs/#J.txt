@@ -1,0 +1,1880 @@
+         7.00pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.00pm, the downstairs: #J is talking with #C, #K.
+         #C segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place openly. Still, no one overhears.
+                           action: talk.
+                           actor: #C.
+                           audience: #C, #J, #K.
+                           final diegesis: fretting about the next round of 'Home Office Hearings'.
+                           final line: C-0.
+                           focalisation: #J.
+                           initial line: START.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K.
+
+         7.01pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.01pm, the downstairs: #J is talking with #C, #K.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #K segues to reflecting on recent rumours circulated in the printed press.
+         The conversation takes place openly. Still, no one overhears.
+                           action: talk.
+                           actor: #K.
+                           audience: #C, #J, #K.
+                           final diegesis: reflecting on recent rumours circulated in the printed press.
+                           final line: D-0.
+                           focalisation: #J.
+                           initial diegesis: fretting about the next round of 'Home Office Hearings'.
+                           initial line: C-0.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K.
+
+         7.02pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.02pm, the downstairs: #J is talking with #C, #K.
+         They are reflecting on recent rumours circulated in the printed press.
+         #J segues to worrying about threats to the party, within and without.
+         The conversation takes place openly. Still, no one overhears.
+                           action: talk.
+                           actor: #J.
+                           audience: #C, #J, #K.
+                           final diegesis: worrying about threats to the party, within and without.
+                           final line: B-0.
+                           focalisation: #J.
+                           initial diegesis: reflecting on recent rumours circulated in the printed press.
+                           initial line: D-0.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K.
+
+         7.03pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.03pm, the kitchens: #B walks from the kitchens to the dining room.
+                  This is seen by #A, #C, #J, #K.
+                           action: walk.
+                           actor: #B.
+                           audience: #A, #B, #C, #J, #K.
+                           final setting: the dining room.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.03pm, the downstairs: #J is talking with #C, #K.
+         They are worrying about threats to the party, within and without.
+         #C segues to gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2} (a rumour hitherto unheard by #J).
+         The conversation takes place openly. Still, no one overhears.
+                           action: talk.
+                           actor: #C.
+                           audience: #C, #J, #K.
+                           final diegesis: gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+                           final line: D10.
+                           focalisation: #J.
+                           initial diegesis: worrying about threats to the party, within and without.
+                           initial line: B-0.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K.
+                           rumour learned: True.
+                           rumour learned by: #J.
+
+         7.04pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.04pm, the dining room: #B walks from the dining room to the downstairs.
+                  This is seen by #A, #C, #J, #K.
+                           action: walk.
+                           actor: #B.
+                           audience: #A, #B, #C, #J, #K.
+                           final setting: the downstairs.
+                           focalisation: #J.
+                           initial setting: the dining room.
+         7.04pm, the downstairs: #J is talking with #B, #C, #K.
+         They are gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+         #K segues to pondering why we've all been convened here tonight.
+         The conversation takes place openly. Still, no one overhears.
+                           action: talk.
+                           actor: #K.
+                           audience: #B, #C, #J, #K.
+                           final diegesis: pondering why we've all been convened here tonight.
+                           final line: A-0.
+                           focalisation: #J.
+                           initial diegesis: gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+                           initial line: D10.
+                           initial setting: the downstairs.
+                           internal audience: #B, #C, #J, #K.
+
+         7.05pm, the downstairs: #J, #B, #C, #K.
+                           action: pause.
+                           audience: #B, #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.05pm, the downstairs: #B walks from the downstairs to the corridor.
+                  This is seen by #A, #C, #J, #K.
+                           action: walk.
+                           actor: #B.
+                           audience: #A, #B, #C, #J, #K.
+                           final setting: the corridor.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.05pm, the downstairs: #J is talking with #C, #K.
+         They are pondering why we've all been convened here tonight.
+         #J segues to making small talk about The Ashes.
+         The conversation takes place openly. Still, no one overhears.
+                           action: talk.
+                           actor: #J.
+                           audience: #C, #J, #K.
+                           final diegesis: making small talk about The Ashes.
+                           final line: Z-0.
+                           focalisation: #J.
+                           initial diegesis: pondering why we've all been convened here tonight.
+                           initial line: A-0.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K.
+
+         7.06pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.06pm, the corridor: #I is talking with someone out of sight.
+         They are pondering why we've all been convened here tonight.
+         #I segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol (a rumour hitherto unheard by #J).
+         #J knows #I has a longstanding vendetta against #K.
+         The conversation takes place with no one else around. Still, #J overhears.
+         * MARXIST STUDENT: #K.
+                           accusation (MARXIST STUDENT): #K.
+                           action: talk.
+                           actor: #I.
+                           actor vendetta exercised: True.
+                           actor vendettas: #K.
+                           all accused: #K.
+                           audience: #I, #J.
+                           confidentiality: with no one else around.
+                           external audience: #J.
+                           final diegesis: divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+                           final line: Z-2.
+                           focalisation: #J.
+                           initial diegesis: pondering why we've all been convened here tonight.
+                           initial line: A-0.
+                           initial setting: the corridor.
+                           internal audience: #I.
+                           overheard: True.
+                           roles: MARXIST STUDENT.
+                           rumour learned: True.
+                           rumour learned by: #J.
+         7.06pm, the downstairs: #J is talking with #C, #K.
+         They are making small talk about The Ashes.
+         #C segues to grumbling about the recent weather.
+         The conversation takes place openly. Still, no one overhears.
+                           action: talk.
+                           actor: #C.
+                           audience: #C, #J, #K.
+                           final diegesis: grumbling about the recent weather.
+                           final line: Y-0.
+                           focalisation: #J.
+                           initial diegesis: making small talk about The Ashes.
+                           initial line: Z-0.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K.
+
+         7.07pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.07pm, the downstairs: #J is talking with #C, #K.
+         They are making small talk about The Ashes.
+         #K, not really paying attention to whatever #J just said, segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #J can tell #K is lying about #H being the 'MARXIST STUDENT' in their midst (this is actually #K themself!).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+                           accusation (MARXIST STUDENT): #H.
+                           action: talk.
+                           actor: #K.
+                           all accused: #H.
+                           audience: #C, #J, #K.
+                           correct MARXIST STUDENT accusation: #K.
+                           correct MARXIST STUDENT actor: #I.
+                           correct MARXIST STUDENT receiver: #J.
+                           dishonest: True.
+                           dishonest MARXIST STUDENT accusation: #H.
+                           dishonest roles: MARXIST STUDENT.
+                           final diegesis: divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+                           final line: Z-2.
+                           focalisation: #J.
+                           honest MARXIST STUDENT accusation: #K.
+                           honest MARXIST STUDENT actor: #K.
+                           honest MARXIST STUDENT receiver: #K.
+                           ignored actor: #J.
+                           incorrect: True.
+                           incorrect MARXIST STUDENT accusation: #H.
+                           incorrect roles: MARXIST STUDENT.
+                           initial diegesis: making small talk about The Ashes.
+                           initial line: Z-0.
+                           initial setting: the downstairs.
+                           interlocution: ignore.
+                           internal audience: #C, #J, #K.
+                           roles: MARXIST STUDENT.
+
+         7.08pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.08pm, the downstairs: #J is talking with #C, #K.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #J segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place openly. Still, no one overhears.
+                           action: talk.
+                           actor: #J.
+                           audience: #C, #J, #K.
+                           final diegesis: fretting about the next round of 'Home Office Hearings'.
+                           final line: C-0.
+                           focalisation: #J.
+                           initial diegesis: divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+                           initial line: Z-2.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K.
+
+         7.09pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.09pm, the corridor: #O walks from the corridor to the downstairs.
+                  This is seen by #A, #C, #J, #K.
+                           action: walk.
+                           actor: #O.
+                           audience: #A, #C, #J, #K, #O.
+                           final setting: the downstairs.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.09pm, the downstairs: #J is talking with #C, #K, #O.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #C segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         The conversation takes place openly. Still, no one overhears.
+         * COLLEAGUE: #E.
+                           accusation (COLLEAGUE): #E.
+                           action: talk.
+                           actor: #C.
+                           all accused: #E.
+                           all implications: UNELECTABLE.
+                           audience: #C, #J, #K, #O.
+                           final diegesis: joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+                           final line: C-9.
+                           focalisation: #J.
+                           initial diegesis: fretting about the next round of 'Home Office Hearings'.
+                           initial line: C-0.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K, #O.
+                           roles: COLLEAGUE.
+
+         7.10pm, the downstairs: #J, #C, #K, #O.
+                           action: pause.
+                           audience: #C, #J, #K, #O.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.10pm, the dining room: #A walks from the dining room to the kitchens.
+                  This is seen by #C, #J, #K, #O.
+                           action: walk.
+                           actor: #A.
+                           audience: #A, #C, #J, #K, #O.
+                           final setting: the kitchens.
+                           focalisation: #J.
+                           initial setting: the dining room.
+         7.10pm, the downstairs: #O walks from the downstairs to the dining room.
+                  This is seen by #C, #J, #K.
+                           action: walk.
+                           actor: #O.
+                           audience: #C, #J, #K, #O.
+                           final setting: the dining room.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.10pm, the kitchens: #S walks from the kitchens to the downstairs.
+                  This is seen by #A, #C, #J, #K, #O.
+                           action: walk.
+                           actor: #S.
+                           audience: #A, #C, #J, #K, #O, #S.
+                           final setting: the downstairs.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.10pm, the downstairs: #J is talking with #C, #K, #S.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #J segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         The conversation takes place openly. Still, no one overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+                           accusation (STAR WITNESS): UNIDENTIFIED.
+                           action: talk.
+                           actor: #J.
+                           all implications: LEADERSHIP BID.
+                           audience: #C, #J, #K, #S.
+                           final diegesis: asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+                           final line: C-7.
+                           focalisation: #J.
+                           initial diegesis: joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+                           initial line: C-9.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K, #S.
+                           roles: STAR WITNESS.
+
+         7.11pm, the downstairs: #J, #C, #K, #S.
+                           action: pause.
+                           audience: #C, #J, #K, #S.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.11pm, the downstairs: #S walks from the downstairs to the corridor.
+                  This is seen by #C, #J, #K, #O.
+                           action: walk.
+                           actor: #S.
+                           audience: #C, #J, #K, #O, #S.
+                           final setting: the corridor.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.11pm, the downstairs: #J is talking with #C, #K.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #K segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         The conversation takes place openly. Still, no one overhears.
+         * SCAPEGOAT: #d.
+                           accusation (SCAPEGOAT): #d.
+                           action: talk.
+                           actor: #K.
+                           all accused: #d.
+                           all implications: COMMUNIST, UNELECTABLE.
+                           audience: #C, #J, #K.
+                           final diegesis: relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+                           final line: C10.
+                           focalisation: #J.
+                           initial diegesis: asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+                           initial line: C-7.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K.
+                           roles: SCAPEGOAT.
+
+         7.12pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.12pm, the downstairs: #J is talking with #C, #K.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #C segues to worrying about threats to the party, within and without.
+         The conversation takes place openly. Still, no one overhears.
+                           action: talk.
+                           actor: #C.
+                           audience: #C, #J, #K.
+                           final diegesis: worrying about threats to the party, within and without.
+                           final line: B-0.
+                           focalisation: #J.
+                           initial diegesis: relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+                           initial line: C10.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K.
+
+         7.13pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.13pm, the downstairs: #J is talking with #C, #K.
+         They are worrying about threats to the party, within and without.
+         #J segues to gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+         The conversation takes place openly. Still, no one overhears.
+                           action: talk.
+                           actor: #J.
+                           audience: #C, #J, #K.
+                           final diegesis: gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+                           final line: D10.
+                           focalisation: #J.
+                           initial diegesis: worrying about threats to the party, within and without.
+                           initial line: B-0.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K.
+
+         7.14pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.14pm, the downstairs: #J is talking with #C, #K.
+         They are gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+         #K segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #J).
+         The conversation takes place openly. Still, no one overhears.
+         * SOVIET GRANDEE: #F.
+                           accusation (SOVIET GRANDEE): #F.
+                           action: talk.
+                           actor: #K.
+                           all accused: #F.
+                           all implications: COMMUNIST.
+                           audience: #C, #J, #K.
+                           final diegesis: insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+                           final line: A-5.
+                           focalisation: #J.
+                           initial diegesis: gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+                           initial line: D10.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K.
+                           roles: SOVIET GRANDEE.
+                           rumour learned: True.
+                           rumour learned by: #J.
+
+         7.15pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.15pm, the corridor: #F is talking with someone out of sight.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         The conversation takes place with no one else around. Still, #J overhears.
+         * COLLEAGUE: #H.
+                           accusation (COLLEAGUE): #H.
+                           action: talk.
+                           actor: #F.
+                           all accused: #H.
+                           all implications: UNELECTABLE.
+                           audience: #F, #J.
+                           confidentiality: with no one else around.
+                           external audience: #J.
+                           final diegesis: joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+                           final line: C-9.
+                           focalisation: #J.
+                           initial diegesis: relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+                           initial line: C10.
+                           initial setting: the corridor.
+                           internal audience: #F.
+                           overheard: True.
+                           roles: COLLEAGUE.
+         7.15pm, the downstairs: #J is talking with #C, #K.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #C segues to speculating that whomever is leaking against the government must be part of the fifth column, so vicious they are in their subversive activities (a rumour hitherto unheard by #J).
+         The conversation takes place openly. Still, no one overhears.
+         * LEAK: UNIDENTIFIED.
+                           accusation (LEAK): UNIDENTIFIED.
+                           action: talk.
+                           actor: #C.
+                           all implications: COMMUNIST.
+                           audience: #C, #J, #K.
+                           final diegesis: speculating that whomever is leaking against the government must be part of the fifth column, so vicious they are in their subversive activities.
+                           final line: D-9.
+                           focalisation: #J.
+                           initial diegesis: insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+                           initial line: A-5.
+                           initial setting: the downstairs.
+                           internal audience: #C, #J, #K.
+                           roles: LEAK.
+                           rumour learned: True.
+                           rumour learned by: #J.
+
+         7.16pm, the downstairs: #J, #C, #K.
+                           action: pause.
+                           audience: #C, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.16pm, the downstairs: #C walks from the downstairs to the corridor.
+                  This is seen by #J, #K, #O.
+                           action: walk.
+                           actor: #C.
+                           audience: #C, #J, #K, #O.
+                           final setting: the corridor.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.16pm, the corridor: #I walks from the corridor to the downstairs.
+                  This is seen by #C, #J, #K, #O.
+                           action: walk.
+                           actor: #I.
+                           audience: #C, #I, #J, #K, #O.
+                           final setting: the downstairs.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.16pm, the downstairs: #J is talking with #I, #K.
+         They are speculating that whomever is leaking against the government must be part of the fifth column, so vicious they are in their subversive activities.
+         #K segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         #J knows #K has longstanding vendettas against #a, #A.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * #A: #A.
+                           accusation (#a): #a.
+                           accusation (#A): #A.
+                           action: talk.
+                           actor: #K.
+                           actor vendetta exercised: True.
+                           actor vendettas: #a, #A.
+                           all accused: #a, #A.
+                           all implications: NO CONFIDENCE.
+                           audience: #I, #J, #K.
+                           final diegesis: regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+                           final line: C11.
+                           focalisation: #J.
+                           initial diegesis: speculating that whomever is leaking against the government must be part of the fifth column, so vicious they are in their subversive activities.
+                           initial line: D-9.
+                           initial setting: the downstairs.
+                           internal audience: #I, #J, #K.
+                           roles: #a, #A.
+
+         7.17pm, the downstairs: #J, #I, #K.
+                           action: pause.
+                           audience: #I, #J, #K.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.17pm, the downstairs: #I walks from the downstairs to the dining room.
+                  This is seen by #J, #K, #O.
+                           action: walk.
+                           actor: #I.
+                           audience: #I, #J, #K, #O.
+                           final setting: the dining room.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.17pm, the downstairs: #K walks from the downstairs to the corridor.
+                  This is seen by #I, #J, #O.
+                           action: walk.
+                           actor: #K.
+                           audience: #I, #J, #K, #O.
+                           final setting: the corridor.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.17pm, the kitchens: #L walks from the kitchens to the downstairs.
+                  This is seen by #I, #J, #O.
+                           action: walk.
+                           actor: #L.
+                           audience: #I, #J, #L, #O.
+                           final setting: the downstairs.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.17pm, the downstairs: #J is talking with #L.
+         They are regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         #J segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         The conversation takes place one-on-one. No one overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+                           accusation (STAR WITNESS): UNIDENTIFIED.
+                           action: talk.
+                           actor: #J.
+                           all implications: LEADERSHIP BID.
+                           audience: #J, #L.
+                           confidentiality: one-on-one.
+                           final diegesis: asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+                           final line: C-7.
+                           focalisation: #J.
+                           initial diegesis: regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+                           initial line: C11.
+                           initial setting: the downstairs.
+                           internal audience: #J, #L.
+                           roles: STAR WITNESS.
+
+         7.18pm, the downstairs: #J, #L.
+                           action: pause.
+                           audience: #J, #L.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.18pm, the downstairs: #L walks from the downstairs to the corridor.
+                  This is seen by #I, #J, #O.
+                           action: walk.
+                           actor: #L.
+                           audience: #I, #J, #L, #O.
+                           final setting: the corridor.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+
+         7.19pm, the downstairs: #J.
+                           action: pause.
+                           audience: #J.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.19pm, the corridor: #B walks from the corridor to the downstairs.
+                  This is seen by #I, #J, #O.
+                           action: walk.
+                           actor: #B.
+                           audience: #B, #I, #J, #O.
+                           final setting: the downstairs.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.19pm, the corridor: #H walks from the corridor to the downstairs.
+                  This is seen by #B, #I, #J, #O.
+                           action: walk.
+                           actor: #H.
+                           audience: #B, #H, #I, #J, #O.
+                           final setting: the downstairs.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.19pm, the downstairs: #J is talking with #B, #H.
+         #J segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place openly. Still, no one overhears.
+                           action: talk.
+                           actor: #J.
+                           audience: #B, #H, #J.
+                           final diegesis: fretting about the next round of 'Home Office Hearings'.
+                           final line: C-0.
+                           focalisation: #J.
+                           initial line: START.
+                           initial setting: the downstairs.
+                           internal audience: #B, #H, #J.
+
+         7.20pm, the downstairs: #J, #B, #H.
+                           action: pause.
+                           audience: #B, #H, #J.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.20pm, the downstairs: #B walks from the downstairs to the kitchens.
+                  This is seen by #H, #I, #J, #O.
+                           action: walk.
+                           actor: #B.
+                           audience: #B, #H, #I, #J, #O.
+                           final setting: the kitchens.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.20pm, the kitchens: #P walks from the kitchens to the downstairs.
+                  This is seen by #B, #H, #I, #J, #O.
+                           action: walk.
+                           actor: #P.
+                           audience: #B, #H, #I, #J, #O, #P.
+                           final setting: the downstairs.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.20pm, the downstairs: #J is talking with #H, #P.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #H segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #J knows #H has a longstanding vendetta against #G.
+         The conversation takes place openly. Still, no one overhears.
+         * COLLEAGUE: #G.
+                           accusation (COLLEAGUE): #G.
+                           action: talk.
+                           actor: #H.
+                           actor vendetta exercised: True.
+                           actor vendettas: #G.
+                           all accused: #G.
+                           all implications: UNELECTABLE.
+                           audience: #H, #J, #P.
+                           final diegesis: joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+                           final line: C-9.
+                           focalisation: #J.
+                           initial diegesis: fretting about the next round of 'Home Office Hearings'.
+                           initial line: C-0.
+                           initial setting: the downstairs.
+                           internal audience: #H, #J, #P.
+                           roles: COLLEAGUE.
+
+         7.21pm, the downstairs: #J, #H, #P.
+                           action: pause.
+                           audience: #H, #J, #P.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.21pm, the downstairs: #P walks from the downstairs to the corridor.
+                  This is seen by #H, #I, #J, #O.
+                           action: walk.
+                           actor: #P.
+                           audience: #H, #I, #J, #O, #P.
+                           final setting: the corridor.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.21pm, the downstairs: #J is talking with #H.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #J segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         The conversation takes place one-on-one. No one overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+                           accusation (STAR WITNESS): UNIDENTIFIED.
+                           action: talk.
+                           actor: #J.
+                           all implications: LEADERSHIP BID.
+                           audience: #H, #J.
+                           confidentiality: one-on-one.
+                           final diegesis: asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+                           final line: C-7.
+                           focalisation: #J.
+                           initial diegesis: joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+                           initial line: C-9.
+                           initial setting: the downstairs.
+                           internal audience: #H, #J.
+                           roles: STAR WITNESS.
+
+         7.22pm, the downstairs: #J, #H.
+                           action: pause.
+                           audience: #H, #J.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.22pm, the downstairs: #J is talking with #H.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #H segues to worrying about threats to the party, within and without.
+         The conversation takes place one-on-one. No one overhears.
+                           action: talk.
+                           actor: #H.
+                           audience: #H, #J.
+                           confidentiality: one-on-one.
+                           final diegesis: worrying about threats to the party, within and without.
+                           final line: B-0.
+                           focalisation: #J.
+                           initial diegesis: asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+                           initial line: C-7.
+                           initial setting: the downstairs.
+                           internal audience: #H, #J.
+
+         7.23pm, the downstairs: #J, #H.
+                           action: pause.
+                           audience: #H, #J.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.23pm, the downstairs: #J is talking with #H.
+         They are worrying about threats to the party, within and without.
+         #J segues to gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+         The conversation takes place one-on-one. No one overhears.
+                           action: talk.
+                           actor: #J.
+                           audience: #H, #J.
+                           confidentiality: one-on-one.
+                           final diegesis: gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+                           final line: D10.
+                           focalisation: #J.
+                           initial diegesis: worrying about threats to the party, within and without.
+                           initial line: B-0.
+                           initial setting: the downstairs.
+                           internal audience: #H, #J.
+
+         7.24pm, the downstairs: #J, #H.
+                           action: pause.
+                           audience: #H, #J.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.24pm, the downstairs: #J is talking with #H.
+         They are gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+         #H segues to pondering why we've all been convened here tonight.
+         The conversation takes place one-on-one. No one overhears.
+                           action: talk.
+                           actor: #H.
+                           audience: #H, #J.
+                           confidentiality: one-on-one.
+                           final diegesis: pondering why we've all been convened here tonight.
+                           final line: A-0.
+                           focalisation: #J.
+                           initial diegesis: gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+                           initial line: D10.
+                           initial setting: the downstairs.
+                           internal audience: #H, #J.
+         7.24pm, the dining room: #I is talking with #O.
+         They are pondering why we've all been convened here tonight.
+         #I segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #J).
+         #J knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. Still, #J overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+                           accusation (#a): #a.
+                           accusation (GRANDEE #1): #A.
+                           accusation (GRANDEE #2): #F.
+                           action: talk.
+                           actor: #I.
+                           actor loyalties: #F.
+                           actor loyalty tested: True.
+                           all accused: #a, #A, #F.
+                           all implications: UNELECTABLE.
+                           audience: #I, #J, #O.
+                           confidentiality: one-on-one.
+                           external audience: #J.
+                           final diegesis: spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+                           final line: A-2.
+                           focalisation: #J.
+                           initial diegesis: pondering why we've all been convened here tonight.
+                           initial line: A-0.
+                           initial setting: the dining room.
+                           internal audience: #I, #O.
+                           overheard: True.
+                           roles: #a, GRANDEE #1, GRANDEE #2.
+                           rumour learned: True.
+                           rumour learned by: #J.
+
+         7.25pm, the downstairs: #J, #H.
+                           action: pause.
+                           audience: #H, #J.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.25pm, the downstairs: #J is talking with #H.
+         They are pondering why we've all been convened here tonight.
+         #J segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #J has a longstanding vendetta against #A.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #A.
+                           accusation (#a): #a.
+                           accusation (GRANDEE #1): #D.
+                           accusation (GRANDEE #2): #A.
+                           action: talk.
+                           actor: #J.
+                           actor vendetta exercised: True.
+                           actor vendettas: #A.
+                           all accused: #a, #A, #D.
+                           all implications: UNELECTABLE.
+                           audience: #H, #J.
+                           confidentiality: one-on-one.
+                           final diegesis: spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+                           final line: A-2.
+                           focalisation: #J.
+                           initial diegesis: pondering why we've all been convened here tonight.
+                           initial line: A-0.
+                           initial setting: the downstairs.
+                           internal audience: #H, #J.
+                           roles: #a, GRANDEE #1, GRANDEE #2.
+
+         7.26pm, the downstairs: #J, #H.
+                           action: pause.
+                           audience: #H, #J.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.26pm, the downstairs: #J is talking with #H.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #H segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #J can tell #H is misinformed about #D being the 'SOVIET GRANDEE' in their midst (earlier, #K told #J this was actually #F).
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #D.
+                           accusation (SOVIET GRANDEE): #D.
+                           action: talk.
+                           actor: #H.
+                           all accused: #D.
+                           all implications: COMMUNIST.
+                           audience: #H, #J.
+                           confidentiality: one-on-one.
+                           correct SOVIET GRANDEE accusation: #F.
+                           correct SOVIET GRANDEE actor: #K.
+                           correct SOVIET GRANDEE receiver: #J.
+                           final diegesis: insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+                           final line: A-5.
+                           focalisation: #J.
+                           incorrect: True.
+                           incorrect roles: SOVIET GRANDEE.
+                           incorrect SOVIET GRANDEE accusation: #D.
+                           initial diegesis: spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+                           initial line: A-2.
+                           initial setting: the downstairs.
+                           internal audience: #H, #J.
+                           roles: SOVIET GRANDEE.
+
+         7.27pm, the downstairs: #J, #H.
+                           action: pause.
+                           audience: #H, #J.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.27pm, the downstairs: #H walks from the downstairs to the kitchens.
+                  This is seen by #I, #J, #O.
+                           action: walk.
+                           actor: #H.
+                           audience: #H, #I, #J, #O.
+                           final setting: the kitchens.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.27pm, the dining room: #I walks from the dining room to the kitchens.
+                  This is seen by #H, #J, #O.
+                           action: walk.
+                           actor: #I.
+                           audience: #H, #I, #J, #O.
+                           final setting: the kitchens.
+                           focalisation: #J.
+                           initial setting: the dining room.
+
+         7.28pm, the downstairs: #J.
+                           action: pause.
+                           audience: #J.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.28pm, the corridor: #G walks from the corridor to the downstairs.
+                  This is seen by #J, #O.
+                           action: walk.
+                           actor: #G.
+                           audience: #G, #J, #O.
+                           final setting: the downstairs.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.28pm, the kitchens: #I walks from the kitchens to the downstairs.
+                  This is seen by #G, #J, #O.
+                           action: walk.
+                           actor: #I.
+                           audience: #G, #I, #J, #O.
+                           final setting: the downstairs.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.28pm, the downstairs: #J is talking with #G, #I.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #J, not really paying attention to whatever #H just said, segues to pondering why we've all been convened here tonight.
+         The conversation takes place openly. Still, no one overhears.
+                           action: talk.
+                           actor: #J.
+                           audience: #G, #I, #J.
+                           final diegesis: pondering why we've all been convened here tonight.
+                           final line: A-0.
+                           focalisation: #J.
+                           ignored actor: #H.
+                           initial diegesis: insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+                           initial line: A-5.
+                           initial setting: the downstairs.
+                           interlocution: ignore.
+                           internal audience: #G, #I, #J.
+
+         7.29pm, the downstairs: #J, #G, #I.
+                           action: pause.
+                           audience: #G, #I, #J.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.29pm, the downstairs: #G walks from the downstairs to the kitchens.
+                  This is seen by #I, #J, #O.
+                           action: walk.
+                           actor: #G.
+                           audience: #G, #I, #J, #O.
+                           final setting: the kitchens.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.29pm, the downstairs: #I walks from the downstairs to the corridor.
+                  This is seen by #J, #O.
+                           action: walk.
+                           actor: #I.
+                           audience: #I, #J, #O.
+                           final setting: the corridor.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.29pm, the downstairs: #J walks from the downstairs to the corridor.
+                  This is seen by #C, #E, #F, #I, #M, #O, #R, #S, #T.
+                           action: walk.
+                           actor: #J.
+                           audience: #C, #E, #F, #I, #J, #M, #O, #R, #S, #T.
+                           final setting: the corridor.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.29pm, the corridor: #J, #C, #I.
+                           action: pause.
+                           audience: #C, #I, #J.
+                           focalisation: #J.
+                           initial setting: the corridor.
+
+         7.30pm, the corridor: #J, #C, #I.
+                           action: pause.
+                           audience: #C, #I, #J.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.30pm, the corridor: #C walks from the corridor to the library.
+                  This is seen by #E, #F, #I, #J, #M, #R, #S, #T.
+                           action: walk.
+                           actor: #C.
+                           audience: #C, #E, #F, #I, #J, #M, #R, #S, #T.
+                           final setting: the library.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.30pm, the corridor: #I walks from the corridor to the library.
+                  This is seen by #C, #E, #F, #J, #M, #R, #S, #T.
+                           action: walk.
+                           actor: #I.
+                           audience: #C, #E, #F, #I, #J, #M, #R, #S, #T.
+                           final setting: the library.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.30pm, the corridor: #J walks from the corridor to the library.
+                  This is seen by #C, #E, #F, #I, #M, #R, #S, #T.
+                           action: walk.
+                           actor: #J.
+                           audience: #C, #E, #F, #I, #J, #M, #R, #S, #T.
+                           final setting: the library.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.30pm, the library: #J, #C, #F, #I, #M, #T.
+                           action: pause.
+                           audience: #C, #F, #I, #J, #M, #T.
+                           focalisation: #J.
+                           initial setting: the library.
+         7.30pm, the library: #J is talking with #C, #F, #I, #M, #T.
+         They are worrying about threats to the party, within and without.
+         #F segues to grumbling about the recent weather.
+         The conversation takes place with no one else around. No one overhears.
+                           action: talk.
+                           actor: #F.
+                           audience: #C, #F, #I, #J, #M, #T.
+                           confidentiality: with no one else around.
+                           final diegesis: grumbling about the recent weather.
+                           final line: Y-0.
+                           focalisation: #J.
+                           initial diegesis: worrying about threats to the party, within and without.
+                           initial line: B-0.
+                           initial setting: the library.
+                           internal audience: #C, #F, #I, #J, #M, #T.
+
+         7.31pm, the library: #J, #C, #F, #I, #M, #T.
+                           action: pause.
+                           audience: #C, #F, #I, #J, #M, #T.
+                           focalisation: #J.
+                           initial setting: the library.
+         7.31pm, the library: #J is talking with #C, #F, #I, #M, #T.
+         They are grumbling about the recent weather.
+         #C segues to reflecting on recent rumours circulated in the printed press.
+         The conversation takes place with no one else around. No one overhears.
+                           action: talk.
+                           actor: #C.
+                           audience: #C, #F, #I, #J, #M, #T.
+                           confidentiality: with no one else around.
+                           final diegesis: reflecting on recent rumours circulated in the printed press.
+                           final line: D-0.
+                           focalisation: #J.
+                           initial diegesis: grumbling about the recent weather.
+                           initial line: Y-0.
+                           initial setting: the library.
+                           internal audience: #C, #F, #I, #J, #M, #T.
+
+         7.32pm, the library: #J, #C, #F, #I, #M, #T.
+                           action: pause.
+                           audience: #C, #F, #I, #J, #M, #T.
+                           focalisation: #J.
+                           initial setting: the library.
+         7.32pm, the library: #J walks from the library to the corridor.
+                  This is seen by #C, #E, #F, #I, #M, #R, #S, #T.
+                           action: walk.
+                           actor: #J.
+                           audience: #C, #E, #F, #I, #J, #M, #R, #S, #T.
+                           final setting: the corridor.
+                           focalisation: #J.
+                           initial setting: the library.
+         7.32pm, the corridor: #J.
+                           action: pause.
+                           audience: #J.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.32pm, the library: #I is talking with #C, #F, #M, #T.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #J knows #I is supposedly loyal to #F.
+         The conversation takes place openly. #J overhears.
+         * SOVIET GRANDEE: #F.
+                           accusation (SOVIET GRANDEE): #F.
+                           action: talk.
+                           actor: #I.
+                           actor loyalties: #F.
+                           actor loyalty tested: True.
+                           all accused: #F.
+                           all implications: COMMUNIST.
+                           audience: #C, #F, #I, #J, #M, #T.
+                           external audience: #J.
+                           final diegesis: insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+                           final line: A-5.
+                           focalisation: #J.
+                           initial diegesis: reflecting on recent rumours circulated in the printed press.
+                           initial line: D-0.
+                           initial setting: the library.
+                           internal audience: #C, #F, #I, #M, #T.
+                           overheard: True.
+                           roles: SOVIET GRANDEE.
+
+         7.33pm, the corridor: #J.
+                           action: pause.
+                           audience: #J.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.33pm, the corridor: #J walks from the corridor to the downstairs.
+                  This is seen by #C, #E, #F, #I, #M, #O, #R, #S, #T.
+                           action: walk.
+                           actor: #J.
+                           audience: #C, #E, #F, #I, #J, #M, #O, #R, #S, #T.
+                           final setting: the downstairs.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.33pm, the downstairs: #J, #O.
+                           action: pause.
+                           audience: #J, #O.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.33pm, the downstairs: #O walks from the downstairs to the corridor.
+                  This is seen by #C, #E, #F, #I, #J, #M, #R, #S, #T.
+                           action: walk.
+                           actor: #O.
+                           audience: #C, #E, #F, #I, #J, #M, #O, #R, #S, #T.
+                           final setting: the corridor.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+
+         7.34pm, the downstairs: #J.
+                           action: pause.
+                           audience: #J.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.34pm, the downstairs: #J walks from the downstairs to the kitchens.
+                  This is seen by #A, #B, #G, #H.
+                           action: walk.
+                           actor: #J.
+                           audience: #A, #B, #G, #H, #J.
+                           final setting: the kitchens.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.34pm, the kitchens: #J, #A, #B, #G, #H.
+                           action: pause.
+                           audience: #A, #B, #G, #H, #J.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.34pm, the kitchens: #J is talking with #A, #B, #G, #H.
+         They are grumbling about the recent weather.
+         #A segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+                           action: talk.
+                           actor: #A.
+                           audience: #A, #B, #G, #H, #J.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: fretting about the next round of 'Home Office Hearings'.
+                           final line: C-0.
+                           focalisation: #J.
+                           initial diegesis: grumbling about the recent weather.
+                           initial line: Y-0.
+                           initial setting: the kitchens.
+                           internal audience: #A, #B, #G, #H, #J.
+
+         7.35pm, the kitchens: #J, #A, #B, #G, #H.
+                           action: pause.
+                           audience: #A, #B, #G, #H, #J.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.35pm, the kitchens: #J is talking with #A, #B, #G, #H.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #H segues to spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions (a rumour hitherto unheard by #J).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+                           action: talk.
+                           actor: #H.
+                           audience: #A, #B, #G, #H, #J.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+                           final line: C-6.
+                           focalisation: #J.
+                           initial diegesis: fretting about the next round of 'Home Office Hearings'.
+                           initial line: C-0.
+                           initial setting: the kitchens.
+                           internal audience: #A, #B, #G, #H, #J.
+                           rumour learned: True.
+                           rumour learned by: #J.
+
+         7.36pm, the kitchens: #J, #A, #B, #G, #H.
+                           action: pause.
+                           audience: #A, #B, #G, #H, #J.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.36pm, the kitchens: #J is talking with #A, #B, #G, #H.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #G segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * SCAPEGOAT: #d.
+                           accusation (SCAPEGOAT): #d.
+                           action: talk.
+                           actor: #G.
+                           all accused: #d.
+                           all implications: COMMUNIST, UNELECTABLE.
+                           audience: #A, #B, #G, #H, #J.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+                           final line: C10.
+                           focalisation: #J.
+                           initial diegesis: spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+                           initial line: C-6.
+                           initial setting: the kitchens.
+                           internal audience: #A, #B, #G, #H, #J.
+                           roles: SCAPEGOAT.
+
+         7.37pm, the kitchens: #J, #A, #B, #G, #H.
+                           action: pause.
+                           audience: #A, #B, #G, #H, #J.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.37pm, the kitchens: #J is talking with #A, #B, #G, #H.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #B segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * COLLEAGUE: #c.
+                           accusation (COLLEAGUE): #c.
+                           action: talk.
+                           actor: #B.
+                           all accused: #c.
+                           all implications: UNELECTABLE.
+                           audience: #A, #B, #G, #H, #J.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+                           final line: C-9.
+                           focalisation: #J.
+                           initial diegesis: relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+                           initial line: C10.
+                           initial setting: the kitchens.
+                           internal audience: #A, #B, #G, #H, #J.
+                           roles: COLLEAGUE.
+
+         7.38pm, the kitchens: #J, #A, #B, #G, #H.
+                           action: pause.
+                           audience: #A, #B, #G, #H, #J.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.38pm, the kitchens: #J is talking with #A, #B, #G, #H.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #H segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+                           accusation (#K): #K.
+                           accusation (STAR WITNESS): UNIDENTIFIED.
+                           action: talk.
+                           actor: #H.
+                           all accused: #K.
+                           all implications: COLD WARRIOR.
+                           audience: #A, #B, #G, #H, #J.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+                           final line: C-2.
+                           focalisation: #J.
+                           initial diegesis: joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+                           initial line: C-9.
+                           initial setting: the kitchens.
+                           internal audience: #A, #B, #G, #H, #J.
+                           roles: #K, STAR WITNESS.
+
+         7.39pm, the kitchens: #J, #A, #B, #G, #H.
+                           action: pause.
+                           audience: #A, #B, #G, #H, #J.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.39pm, the kitchens: #J is talking with #A, #B, #G, #H.
+         They are saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         #B segues to stating that these anti-communism hearings are all part of a conspiracy to undermine the party.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #K: #K.
+         * MCCARTHY: UNIDENTIFIED.
+         * STAR WITNESS: UNIDENTIFIED.
+                           accusation (#K): #K.
+                           accusation (MCCARTHY): UNIDENTIFIED.
+                           accusation (STAR WITNESS): UNIDENTIFIED.
+                           action: talk.
+                           actor: #B.
+                           all accused: #K.
+                           all implications: NO CONFIDENCE.
+                           audience: #A, #B, #G, #H, #J.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: stating that these anti-communism hearings are all part of a conspiracy to undermine the party.
+                           final line: C-4.
+                           focalisation: #J.
+                           initial diegesis: saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+                           initial line: C-2.
+                           initial setting: the kitchens.
+                           internal audience: #A, #B, #G, #H, #J.
+                           roles: #K, MCCARTHY, STAR WITNESS.
+
+         7.40pm, the kitchens: #J, #A, #B, #G, #H.
+                           action: pause.
+                           audience: #A, #B, #G, #H, #J.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.40pm, the downstairs: #I walks from the downstairs to the kitchens.
+                  This is seen by #A, #B, #G, #H, #J.
+                           action: walk.
+                           actor: #I.
+                           audience: #A, #B, #G, #H, #I, #J.
+                           final setting: the kitchens.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.40pm, the kitchens: #J is talking with #A, #B, #G, #H, #I.
+         They are stating that these anti-communism hearings are all part of a conspiracy to undermine the party.
+         #A segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+                           accusation (STAR WITNESS): UNIDENTIFIED.
+                           action: talk.
+                           actor: #A.
+                           all implications: LEADERSHIP BID.
+                           audience: #A, #B, #G, #H, #I, #J.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+                           final line: C-7.
+                           focalisation: #J.
+                           initial diegesis: stating that these anti-communism hearings are all part of a conspiracy to undermine the party.
+                           initial line: C-4.
+                           initial setting: the kitchens.
+                           internal audience: #A, #B, #G, #H, #I, #J.
+                           roles: STAR WITNESS.
+
+         7.41pm, the kitchens: #J, #A, #B, #G, #H, #I.
+                           action: pause.
+                           audience: #A, #B, #G, #H, #I, #J.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.41pm, the kitchens: #J is talking with #A, #B, #G, #H, #I.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #J segues to making small talk about The Ashes.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+                           action: talk.
+                           actor: #J.
+                           audience: #A, #B, #G, #H, #I, #J.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: making small talk about The Ashes.
+                           final line: Z-0.
+                           focalisation: #J.
+                           initial diegesis: asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+                           initial line: C-7.
+                           initial setting: the kitchens.
+                           internal audience: #A, #B, #G, #H, #I, #J.
+
+         7.42pm, the kitchens: #J, #A, #B, #G, #H, #I.
+                           action: pause.
+                           audience: #A, #B, #G, #H, #I, #J.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.42pm, the kitchens: #J walks from the kitchens to the larder.
+                  This is seen by #A, #B, #G, #H, #I, #Q.
+                           action: walk.
+                           actor: #J.
+                           audience: #A, #B, #G, #H, #I, #J, #Q.
+                           final setting: the larder.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.42pm, the larder: #J, #Q.
+                           action: pause.
+                           audience: #J, #Q.
+                           focalisation: #J.
+                           initial setting: the larder.
+         7.42pm, the larder: #J is talking with #Q.
+         #Q segues to pondering why we've all been convened here tonight.
+         The conversation takes place behind closed doors, one-on-one, with no one else around. No one overhears.
+                           action: talk.
+                           actor: #Q.
+                           audience: #J, #Q.
+                           confidentiality: behind closed doors, one-on-one, with no one else around.
+                           final diegesis: pondering why we've all been convened here tonight.
+                           final line: A-0.
+                           focalisation: #J.
+                           initial line: START.
+                           initial setting: the larder.
+                           internal audience: #J, #Q.
+
+         7.43pm, the larder: #J, #Q.
+                           action: pause.
+                           audience: #J, #Q.
+                           focalisation: #J.
+                           initial setting: the larder.
+         7.43pm, the larder: #J walks from the larder to the kitchens.
+                  This is seen by #A, #B, #G, #H, #I, #Q.
+                           action: walk.
+                           actor: #J.
+                           audience: #A, #B, #G, #H, #I, #J, #Q.
+                           final setting: the kitchens.
+                           focalisation: #J.
+                           initial setting: the larder.
+         7.43pm, the kitchens: #J, #A, #B, #G, #H, #I.
+                           action: pause.
+                           audience: #A, #B, #G, #H, #I, #J.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.43pm, the kitchens: #J is talking with #A, #B, #G, #H, #I.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #G segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #K: #K.
+                           accusation (#K): #K.
+                           action: talk.
+                           actor: #G.
+                           all accused: #K.
+                           all implications: COLD WARRIOR.
+                           audience: #A, #B, #G, #H, #I, #J.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+                           final line: C-1.
+                           focalisation: #J.
+                           initial diegesis: divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+                           initial line: Z-2.
+                           initial setting: the kitchens.
+                           internal audience: #A, #B, #G, #H, #I, #J.
+                           roles: #K.
+
+         7.44pm, the kitchens: #J, #A, #B, #G, #H, #I.
+                           action: pause.
+                           audience: #A, #B, #G, #H, #I, #J.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.44pm, the kitchens: #J walks from the kitchens to the downstairs.
+                  This is seen by #A, #B, #G, #H, #I.
+                           action: walk.
+                           actor: #J.
+                           audience: #A, #B, #G, #H, #I, #J.
+                           final setting: the downstairs.
+                           focalisation: #J.
+                           initial setting: the kitchens.
+         7.44pm, the downstairs: #J.
+                           action: pause.
+                           audience: #J.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+
+         7.45pm, the downstairs: #J.
+                           action: pause.
+                           audience: #J.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.45pm, the downstairs: #J walks from the downstairs to the corridor.
+                  This is seen by #C, #E, #F, #M, #O, #R, #S, #T.
+                           action: walk.
+                           actor: #J.
+                           audience: #C, #E, #F, #J, #M, #O, #R, #S, #T.
+                           final setting: the corridor.
+                           focalisation: #J.
+                           initial setting: the downstairs.
+         7.45pm, the corridor: #J.
+                           action: pause.
+                           audience: #J.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.45pm, the library: #T is talking with #C, #E, #M.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #T segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. #J overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+                           accusation (#K): #K.
+                           accusation (STAR WITNESS): UNIDENTIFIED.
+                           action: talk.
+                           actor: #T.
+                           all accused: #K.
+                           all implications: COLD WARRIOR.
+                           audience: #C, #E, #J, #M, #T.
+                           external audience: #J.
+                           final diegesis: saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+                           final line: C-2.
+                           focalisation: #J.
+                           initial diegesis: ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+                           initial line: C-1.
+                           initial setting: the library.
+                           internal audience: #C, #E, #M, #T.
+                           overheard: True.
+                           roles: #K, STAR WITNESS.
+
+         7.46pm, the corridor: #J.
+                           action: pause.
+                           audience: #J.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.46pm, the corridor: #J walks from the corridor to the drawing room.
+                  This is seen by #C, #D, #E, #F, #M, #O, #P, #R, #S, #T.
+                           action: walk.
+                           actor: #J.
+                           audience: #C, #D, #E, #F, #J, #M, #O, #P, #R, #S, #T.
+                           final setting: the drawing room.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.46pm, the drawing room: #J, #F, #R, #S.
+                           action: pause.
+                           audience: #F, #J, #R, #S.
+                           focalisation: #J.
+                           initial setting: the drawing room.
+         7.46pm, the drawing room: #J is talking with #F, #R, #S.
+         They are worrying about threats to the party, within and without.
+         #R segues to passing on that the opposition are planning to trigger a vote of no confidence (a rumour hitherto unheard by #J).
+         The conversation takes place openly. Still, no one overhears.
+                           action: talk.
+                           actor: #R.
+                           audience: #F, #J, #R, #S.
+                           final diegesis: passing on that the opposition are planning to trigger a vote of no confidence.
+                           final line: B-1.
+                           focalisation: #J.
+                           initial diegesis: worrying about threats to the party, within and without.
+                           initial line: B-0.
+                           initial setting: the drawing room.
+                           internal audience: #F, #J, #R, #S.
+                           rumour learned: True.
+                           rumour learned by: #J.
+
+         7.47pm, the drawing room: #J, #F, #R, #S.
+                           action: pause.
+                           audience: #F, #J, #R, #S.
+                           focalisation: #J.
+                           initial setting: the drawing room.
+         7.47pm, the drawing room: #J walks from the drawing room to the corridor.
+                  This is seen by #C, #D, #E, #F, #M, #O, #P, #R, #S, #T.
+                           action: walk.
+                           actor: #J.
+                           audience: #C, #D, #E, #F, #J, #M, #O, #P, #R, #S, #T.
+                           final setting: the corridor.
+                           focalisation: #J.
+                           initial setting: the drawing room.
+         7.47pm, the corridor: #J.
+                           action: pause.
+                           audience: #J.
+                           focalisation: #J.
+                           initial setting: the corridor.
+
+         7.48pm, the corridor: #J.
+                           action: pause.
+                           audience: #J.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.48pm, the corridor: #J walks from the corridor to the billiards room.
+                  This is seen by #C, #E, #F, #K, #L, #M, #N, #O, #R, #S, #T.
+                           action: walk.
+                           actor: #J.
+                           audience: #C, #E, #F, #J, #K, #L, #M, #N, #O, #R, #S, #T.
+                           final setting: the billiards room.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.48pm, the billiards room: #J, #K, #L, #N.
+                           action: pause.
+                           audience: #J, #K, #L, #N.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         7.48pm, the billiards room: #J is talking with #K, #L, #N.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #N segues to theorising these hearings are actually Government-sanctioned, a deliberate distraction from real scandals (a rumour hitherto unheard by #J).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+                           action: talk.
+                           actor: #N.
+                           audience: #J, #K, #L, #N.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: theorising these hearings are actually Government-sanctioned, a deliberate distraction from real scandals.
+                           final line: C-5.
+                           focalisation: #J.
+                           initial diegesis: ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+                           initial line: C-1.
+                           initial setting: the billiards room.
+                           internal audience: #J, #K, #L, #N.
+                           rumour learned: True.
+                           rumour learned by: #J.
+
+         7.49pm, the billiards room: #J, #K, #L, #N.
+                           action: pause.
+                           audience: #J, #K, #L, #N.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         7.49pm, the billiards room: #J is talking with #K, #L, #N.
+         They are theorising these hearings are actually Government-sanctioned, a deliberate distraction from real scandals.
+         #J segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #C).
+         #J has a longstanding vendetta against #H.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * COLLEAGUE: #H.
+                           accusation (COLLEAGUE): #H.
+                           action: talk.
+                           actor: #J.
+                           actor vendetta exercised: True.
+                           actor vendettas: #H.
+                           all accused: #H.
+                           all implications: UNELECTABLE.
+                           audience: #J, #K, #L, #N.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+                           final line: C-9.
+                           focalisation: #J.
+                           initial diegesis: theorising these hearings are actually Government-sanctioned, a deliberate distraction from real scandals.
+                           initial line: C-5.
+                           initial setting: the billiards room.
+                           internal audience: #J, #K, #L, #N.
+                           joke stolen: True.
+                           joke stolen from: #C.
+                           roles: COLLEAGUE.
+
+         7.50pm, the billiards room: #J, #K, #L, #N.
+                           action: pause.
+                           audience: #J, #K, #L, #N.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         7.50pm, the billiards room: #J is talking with #K, #L, #N.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #K segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+                           accusation (STAR WITNESS): UNIDENTIFIED.
+                           action: talk.
+                           actor: #K.
+                           all implications: LEADERSHIP BID.
+                           audience: #J, #K, #L, #N.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+                           final line: C-7.
+                           focalisation: #J.
+                           initial diegesis: joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+                           initial line: C-9.
+                           initial setting: the billiards room.
+                           internal audience: #J, #K, #L, #N.
+                           roles: STAR WITNESS.
+
+         7.51pm, the billiards room: #J, #K, #L, #N.
+                           action: pause.
+                           audience: #J, #K, #L, #N.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         7.51pm, the billiards room: #J is talking with #K, #L, #N.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #N segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #J can tell #N is misinformed about #H being the 'SCAPEGOAT' in their midst (#J knows this is actually #d).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+                           accusation (SCAPEGOAT): #H.
+                           action: talk.
+                           actor: #N.
+                           all accused: #H.
+                           all implications: COMMUNIST, UNELECTABLE.
+                           audience: #J, #K, #L, #N.
+                           confidentiality: behind closed doors, with no one else around.
+                           correct SCAPEGOAT accusation: #d.
+                           correct SCAPEGOAT actor: #J.
+                           correct SCAPEGOAT receiver: #J.
+                           final diegesis: relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+                           final line: C10.
+                           focalisation: #J.
+                           incorrect: True.
+                           incorrect roles: SCAPEGOAT.
+                           incorrect SCAPEGOAT accusation: #H.
+                           initial diegesis: asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+                           initial line: C-7.
+                           initial setting: the billiards room.
+                           internal audience: #J, #K, #L, #N.
+                           roles: SCAPEGOAT.
+
+         7.52pm, the billiards room: #J, #K, #L, #N.
+                           action: pause.
+                           audience: #J, #K, #L, #N.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         7.52pm, the billiards room: #J is talking with #K, #L, #N.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #K segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         #J knows #K has longstanding vendettas against #a, #A.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * #A: #A.
+                           accusation (#a): #a.
+                           accusation (#A): #A.
+                           action: talk.
+                           actor: #K.
+                           actor vendetta exercised: True.
+                           actor vendettas: #a, #A.
+                           all accused: #a, #A.
+                           all implications: NO CONFIDENCE.
+                           audience: #J, #K, #L, #N.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+                           final line: C11.
+                           focalisation: #J.
+                           initial diegesis: relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+                           initial line: C10.
+                           initial setting: the billiards room.
+                           internal audience: #J, #K, #L, #N.
+                           roles: #a, #A.
+
+         7.53pm, the billiards room: #J, #K, #L, #N.
+                           action: pause.
+                           audience: #J, #K, #L, #N.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         7.53pm, the billiards room: #J is talking with #K, #L, #N.
+         They are regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         #L segues to pondering why we've all been convened here tonight.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+                           action: talk.
+                           actor: #L.
+                           audience: #J, #K, #L, #N.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: pondering why we've all been convened here tonight.
+                           final line: A-0.
+                           focalisation: #J.
+                           initial diegesis: regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+                           initial line: C11.
+                           initial setting: the billiards room.
+                           internal audience: #J, #K, #L, #N.
+
+         7.54pm, the billiards room: #J, #K, #L, #N.
+                           action: pause.
+                           audience: #J, #K, #L, #N.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         7.54pm, the billiards room: #L walks from the billiards room to the corridor.
+                  This is seen by #J, #K, #N.
+                           action: walk.
+                           actor: #L.
+                           audience: #J, #K, #L, #N.
+                           final setting: the corridor.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         7.54pm, the billiards room: #J is talking with #K, #N.
+         They are pondering why we've all been convened here tonight.
+         #J segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #J has a longstanding vendetta against #A.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #D.
+                           accusation (#a): #a.
+                           accusation (GRANDEE #1): #A.
+                           accusation (GRANDEE #2): #D.
+                           action: talk.
+                           actor: #J.
+                           actor vendetta exercised: True.
+                           actor vendettas: #A.
+                           all accused: #a, #A, #D.
+                           all implications: UNELECTABLE.
+                           audience: #J, #K, #N.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+                           final line: A-2.
+                           focalisation: #J.
+                           initial diegesis: pondering why we've all been convened here tonight.
+                           initial line: A-0.
+                           initial setting: the billiards room.
+                           internal audience: #J, #K, #N.
+                           roles: #a, GRANDEE #1, GRANDEE #2.
+
+         7.55pm, the billiards room: #J, #K, #N.
+                           action: pause.
+                           audience: #J, #K, #N.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         7.55pm, the billiards room: #J is talking with #K, #N.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #N segues to making small talk about The Ashes.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+                           action: talk.
+                           actor: #N.
+                           audience: #J, #K, #N.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: making small talk about The Ashes.
+                           final line: Z-0.
+                           focalisation: #J.
+                           initial diegesis: spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+                           initial line: A-2.
+                           initial setting: the billiards room.
+                           internal audience: #J, #K, #N.
+
+         7.56pm, the billiards room: #J, #K, #N.
+                           action: pause.
+                           audience: #J, #K, #N.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         7.56pm, the billiards room: #J is talking with #K, #N.
+         They are making small talk about The Ashes.
+         #K segues to sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * CRICKETER: #H.
+                           accusation (CRICKETER): #H.
+                           action: talk.
+                           actor: #K.
+                           all accused: #H.
+                           audience: #J, #K, #N.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+                           final line: Z-1.
+                           focalisation: #J.
+                           initial diegesis: making small talk about The Ashes.
+                           initial line: Z-0.
+                           initial setting: the billiards room.
+                           internal audience: #J, #K, #N.
+                           roles: CRICKETER.
+
+         7.57pm, the billiards room: #J, #K, #N.
+                           action: pause.
+                           audience: #J, #K, #N.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         7.57pm, the corridor: #H walks from the corridor to the billiards room.
+                  This is seen by #J, #K, #N.
+                           action: walk.
+                           actor: #H.
+                           audience: #H, #J, #K, #N.
+                           final setting: the billiards room.
+                           focalisation: #J.
+                           initial setting: the corridor.
+         7.57pm, the billiards room: #J is talking with #H, #K, #N.
+         They are sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         #N segues to spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+                           action: talk.
+                           actor: #N.
+                           audience: #H, #J, #K, #N.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+                           final line: C-6.
+                           focalisation: #J.
+                           initial diegesis: sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+                           initial line: Z-1.
+                           initial setting: the billiards room.
+                           internal audience: #H, #J, #K, #N.
+
+         7.58pm, the billiards room: #J, #H, #K, #N.
+                           action: pause.
+                           audience: #H, #J, #K, #N.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         7.58pm, the billiards room: #J is talking with #H, #K, #N.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #J segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #J is lying about #I being the 'MARXIST STUDENT' in their midst (earlier, #I told #J this was actually #K).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * MARXIST STUDENT: #I.
+                           accusation (MARXIST STUDENT): #I.
+                           action: talk.
+                           actor: #J.
+                           all accused: #I.
+                           audience: #H, #J, #K, #N.
+                           confidentiality: behind closed doors, with no one else around.
+                           dishonest: True.
+                           dishonest MARXIST STUDENT accusation: #I.
+                           dishonest roles: MARXIST STUDENT.
+                           final diegesis: divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+                           final line: Z-2.
+                           focalisation: #J.
+                           honest MARXIST STUDENT accusation: #K.
+                           honest MARXIST STUDENT actor: #I.
+                           honest MARXIST STUDENT receiver: #J.
+                           initial diegesis: spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+                           initial line: C-6.
+                           initial setting: the billiards room.
+                           internal audience: #H, #J, #K, #N.
+                           roles: MARXIST STUDENT.
+
+         7.59pm, the billiards room: #J, #H, #K, #N.
+                           action: pause.
+                           audience: #H, #J, #K, #N.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         7.59pm, the billiards room: #J is talking with #H, #K, #N.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #H segues to reflecting on recent rumours circulated in the printed press.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+                           action: talk.
+                           actor: #H.
+                           audience: #H, #J, #K, #N.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: reflecting on recent rumours circulated in the printed press.
+                           final line: D-0.
+                           focalisation: #J.
+                           initial diegesis: divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+                           initial line: Z-2.
+                           initial setting: the billiards room.
+                           internal audience: #H, #J, #K, #N.
+
+         8.00pm, the billiards room: #J, #H, #K, #N.
+                           action: pause.
+                           audience: #H, #J, #K, #N.
+                           focalisation: #J.
+                           initial setting: the billiards room.
+         8.00pm, the billiards room: #J is talking with #H, #K, #N.
+         They are reflecting on recent rumours circulated in the printed press.
+         #K segues to stating straight out that {CHALLENGER} is prepared to run against {#a} (a rumour hitherto unheard by #J).
+         #J knows #K has longstanding vendettas against #a, #A.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #A.
+                           accusation (#a): #a.
+                           accusation (CHALLENGER): #A.
+                           action: talk.
+                           actor: #K.
+                           actor vendetta exercised: True.
+                           actor vendettas: #a, #A.
+                           all accused: #a, #A.
+                           all implications: LEADERSHIP BID, NO CONFIDENCE.
+                           audience: #H, #J, #K, #N.
+                           confidentiality: behind closed doors, with no one else around.
+                           final diegesis: stating straight out that {CHALLENGER} is prepared to run against {#a}.
+                           final line: B-2.
+                           focalisation: #J.
+                           initial diegesis: reflecting on recent rumours circulated in the printed press.
+                           initial line: D-0.
+                           initial setting: the billiards room.
+                           internal audience: #H, #J, #K, #N.
+                           roles: #a, CHALLENGER.
+                           rumour learned: True.
+                           rumour learned by: #J.
+

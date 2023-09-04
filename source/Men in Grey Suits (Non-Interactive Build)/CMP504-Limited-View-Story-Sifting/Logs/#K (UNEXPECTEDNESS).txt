@@ -1,0 +1,292 @@
+RUMOUR, MICROSTORY #1:
+         NARRATIVE OF #K:
+         7.08pm, the corridor: #I is talking with someone out of sight.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #I segues to conceding that {#K} does represent a small but frighteningly influential faction of our coalition (a rumour hitherto unheard by #K).
+         #K knows #I has a longstanding vendetta against #K.
+         The conversation takes place with no one else around. Still, #K overhears.
+         * #K: #K.
+
+RUMOUR, MICROSTORY #2:
+         NARRATIVE OF #K:
+         7.32pm, the billiards room: #K is talking with #L, #N.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #K, not really paying attention to whatever #N just said, segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #C).
+         #K has a longstanding vendetta against #a.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * COLLEAGUE: #a.
+
+RUMOUR, MICROSTORY #3:
+         NARRATIVE OF #K:
+         7.06pm, the corridor: #I is talking with someone out of sight.
+         They are pondering why we've all been convened here tonight.
+         #I segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #K knows #I has a longstanding vendetta against #K.
+         The conversation takes place with no one else around. Still, #K overhears.
+         * MARXIST STUDENT: #K.
+
+RUMOUR, MICROSTORY #4:
+         NARRATIVE OF #K:
+         7.04pm, the corridor: #I is talking with someone out of sight.
+         They are worrying about threats to the party, within and without.
+         #I segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #K).
+         #K knows #I is supposedly loyal to #F.
+         The conversation takes place with no one else around. Still, #K overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+
+RUMOUR, MICROSTORY #5:
+         NARRATIVE OF #K:
+         7.17pm, the lounge: #E is talking with #M.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #E segues to spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions (a rumour hitherto unheard by #K).
+         The conversation takes place one-on-one. Still, #K overhears.
+
+HE SAID, SHE SAID, MICROSTORY #1:
+         NARRATIVE OF #K:
+         7.08pm, the corridor: #I is talking with someone out of sight.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #I segues to conceding that {#K} does represent a small but frighteningly influential faction of our coalition (a rumour hitherto unheard by #K).
+         #K knows #I has a longstanding vendetta against #K.
+         The conversation takes place with no one else around. Still, #K overhears.
+         * #K: #K.
+         Later, in 7.32pm, the billiards room: #K is talking with #L, #N.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #K, not really paying attention to whatever #N just said, segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #C).
+         #K has a longstanding vendetta against #a.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * COLLEAGUE: #a.
+
+HE SAID, SHE SAID, MICROSTORY #2:
+         NARRATIVE OF #K:
+         7.06pm, the corridor: #I is talking with someone out of sight.
+         They are pondering why we've all been convened here tonight.
+         #I segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #K knows #I has a longstanding vendetta against #K.
+         The conversation takes place with no one else around. Still, #K overhears.
+         * MARXIST STUDENT: #K.
+         Later, in 7.32pm, the billiards room: #K is talking with #L, #N.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #K, not really paying attention to whatever #N just said, segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #C).
+         #K has a longstanding vendetta against #a.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * COLLEAGUE: #a.
+
+HE SAID, SHE SAID, MICROSTORY #3:
+         NARRATIVE OF #K:
+         7.08pm, the corridor: #I is talking with someone out of sight.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #I segues to conceding that {#K} does represent a small but frighteningly influential faction of our coalition (a rumour hitherto unheard by #K).
+         #K knows #I has a longstanding vendetta against #K.
+         The conversation takes place with no one else around. Still, #K overhears.
+         * #K: #K.
+         Later, in 8.00pm, the billiards room: #K is talking with #H, #J, #N.
+         They are reflecting on recent rumours circulated in the printed press.
+         #K segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #K has longstanding vendettas against #a, #A.
+         #K is lying about #A being the 'CHALLENGER' in their midst (earlier, #L told #K this was actually #J).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #A.
+
+HE SAID, SHE SAID, MICROSTORY #4:
+         NARRATIVE OF #K:
+         7.07pm, the downstairs: #K is talking with #C, #J.
+         They are making small talk about The Ashes.
+         #K, not really paying attention to whatever #J just said, segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #K is lying about #H being the 'MARXIST STUDENT' in their midst (this is actually #K themself!).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+         Later, in 7.08pm, the corridor: #I is talking with someone out of sight.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #I segues to conceding that {#K} does represent a small but frighteningly influential faction of our coalition (a rumour hitherto unheard by #K).
+         #K knows #I has a longstanding vendetta against #K.
+         The conversation takes place with no one else around. Still, #K overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #5:
+         NARRATIVE OF #K:
+         7.06pm, the corridor: #I is talking with someone out of sight.
+         They are pondering why we've all been convened here tonight.
+         #I segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #K knows #I has a longstanding vendetta against #K.
+         The conversation takes place with no one else around. Still, #K overhears.
+         * MARXIST STUDENT: #K.
+         Later, in 7.07pm, the downstairs: #K is talking with #C, #J.
+         They are making small talk about The Ashes.
+         #K, not really paying attention to whatever #J just said, segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #K is lying about #H being the 'MARXIST STUDENT' in their midst (this is actually #K themself!).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+
+MEET THE CANDIDATES, MICROSTORY #1:
+         NARRATIVE OF #K:
+         7.07pm, the downstairs: #K is talking with #C, #J.
+         They are making small talk about The Ashes.
+         #K, not really paying attention to whatever #J just said, segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #K is lying about #H being the 'MARXIST STUDENT' in their midst (this is actually #K themself!).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+         Later, in 7.08pm, the corridor: #I is talking with someone out of sight.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #I segues to conceding that {#K} does represent a small but frighteningly influential faction of our coalition (a rumour hitherto unheard by #K).
+         #K knows #I has a longstanding vendetta against #K.
+         The conversation takes place with no one else around. Still, #K overhears.
+         * #K: #K.
+         Later, in 7.42pm, the billiards room: #K is talking with #L, #N.
+         They are warning that, apparently, The Standard's got ahold of something major.
+         #L segues to stating straight out that {CHALLENGER} is prepared to run against {#a} (a rumour hitherto unheard by #K).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+         Later, in 7.49pm, the billiards room: #K is talking with #J, #L, #N.
+         They are theorising these hearings are actually Government-sanctioned, a deliberate distraction from real scandals.
+         #J segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #C).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * COLLEAGUE: #H.
+         Later, in 8.00pm, the billiards room: #K is talking with #H, #J, #N.
+         They are reflecting on recent rumours circulated in the printed press.
+         #K segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #K has longstanding vendettas against #a, #A.
+         #K is lying about #A being the 'CHALLENGER' in their midst (earlier, #L told #K this was actually #J).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #A.
+
+MEET THE CANDIDATES, MICROSTORY #2:
+         NARRATIVE OF #K:
+         7.08pm, the corridor: #I is talking with someone out of sight.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #I segues to conceding that {#K} does represent a small but frighteningly influential faction of our coalition (a rumour hitherto unheard by #K).
+         #K knows #I has a longstanding vendetta against #K.
+         The conversation takes place with no one else around. Still, #K overhears.
+         * #K: #K.
+         Later, in 7.42pm, the billiards room: #K is talking with #L, #N.
+         They are warning that, apparently, The Standard's got ahold of something major.
+         #L segues to stating straight out that {CHALLENGER} is prepared to run against {#a} (a rumour hitherto unheard by #K).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+         Later, in 7.49pm, the billiards room: #K is talking with #J, #L, #N.
+         They are theorising these hearings are actually Government-sanctioned, a deliberate distraction from real scandals.
+         #J segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #C).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * COLLEAGUE: #H.
+         Later, in 7.58pm, the billiards room: #K is talking with #H, #J, #N.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #J segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #K can tell #J is lying about #I being the 'MARXIST STUDENT' in their midst (earlier, #K told #J this was actually #H).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * MARXIST STUDENT: #I.
+         Later, in 8.00pm, the billiards room: #K is talking with #H, #J, #N.
+         They are reflecting on recent rumours circulated in the printed press.
+         #K segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #K has longstanding vendettas against #a, #A.
+         #K is lying about #A being the 'CHALLENGER' in their midst (earlier, #L told #K this was actually #J).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #A.
+
+MEET THE CANDIDATES, MICROSTORY #3:
+         NARRATIVE OF #K:
+         7.06pm, the corridor: #I is talking with someone out of sight.
+         They are pondering why we've all been convened here tonight.
+         #I segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #K knows #I has a longstanding vendetta against #K.
+         The conversation takes place with no one else around. Still, #K overhears.
+         * MARXIST STUDENT: #K.
+         Later, in 7.07pm, the downstairs: #K is talking with #C, #J.
+         They are making small talk about The Ashes.
+         #K, not really paying attention to whatever #J just said, segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #K is lying about #H being the 'MARXIST STUDENT' in their midst (this is actually #K themself!).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+         Later, in 7.42pm, the billiards room: #K is talking with #L, #N.
+         They are warning that, apparently, The Standard's got ahold of something major.
+         #L segues to stating straight out that {CHALLENGER} is prepared to run against {#a} (a rumour hitherto unheard by #K).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+         Later, in 7.49pm, the billiards room: #K is talking with #J, #L, #N.
+         They are theorising these hearings are actually Government-sanctioned, a deliberate distraction from real scandals.
+         #J segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #C).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * COLLEAGUE: #H.
+         Later, in 8.00pm, the billiards room: #K is talking with #H, #J, #N.
+         They are reflecting on recent rumours circulated in the printed press.
+         #K segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #K has longstanding vendettas against #a, #A.
+         #K is lying about #A being the 'CHALLENGER' in their midst (earlier, #L told #K this was actually #J).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #A.
+
+MEET THE CANDIDATES, MICROSTORY #4:
+         NARRATIVE OF #K:
+         7.07pm, the downstairs: #K is talking with #C, #J.
+         They are making small talk about The Ashes.
+         #K, not really paying attention to whatever #J just said, segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #K is lying about #H being the 'MARXIST STUDENT' in their midst (this is actually #K themself!).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+         Later, in 7.08pm, the corridor: #I is talking with someone out of sight.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #I segues to conceding that {#K} does represent a small but frighteningly influential faction of our coalition (a rumour hitherto unheard by #K).
+         #K knows #I has a longstanding vendetta against #K.
+         The conversation takes place with no one else around. Still, #K overhears.
+         * #K: #K.
+         Later, in 7.42pm, the billiards room: #K is talking with #L, #N.
+         They are warning that, apparently, The Standard's got ahold of something major.
+         #L segues to stating straight out that {CHALLENGER} is prepared to run against {#a} (a rumour hitherto unheard by #K).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+         Later, in 7.51pm, the billiards room: #K is talking with #J, #L, #N.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #N segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #K can tell #N thinks they're lying about #H being the 'SCAPEGOAT' in their midst (whereas #K knows this is actually completely true).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+         Later, in 8.00pm, the billiards room: #K is talking with #H, #J, #N.
+         They are reflecting on recent rumours circulated in the printed press.
+         #K segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #K has longstanding vendettas against #a, #A.
+         #K is lying about #A being the 'CHALLENGER' in their midst (earlier, #L told #K this was actually #J).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #A.
+
+MEET THE CANDIDATES, MICROSTORY #5:
+         NARRATIVE OF #K:
+         7.08pm, the corridor: #I is talking with someone out of sight.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #I segues to conceding that {#K} does represent a small but frighteningly influential faction of our coalition (a rumour hitherto unheard by #K).
+         #K knows #I has a longstanding vendetta against #K.
+         The conversation takes place with no one else around. Still, #K overhears.
+         * #K: #K.
+         Later, in 7.42pm, the billiards room: #K is talking with #L, #N.
+         They are warning that, apparently, The Standard's got ahold of something major.
+         #L segues to stating straight out that {CHALLENGER} is prepared to run against {#a} (a rumour hitherto unheard by #K).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+         Later, in 7.49pm, the billiards room: #K is talking with #J, #L, #N.
+         They are theorising these hearings are actually Government-sanctioned, a deliberate distraction from real scandals.
+         #J segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #C).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * COLLEAGUE: #H.
+         Later, in 7.56pm, the billiards room: #K is talking with #J, #N.
+         They are making small talk about The Ashes.
+         #K segues to sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * CRICKETER: #H.
+         Later, in 8.00pm, the billiards room: #K is talking with #H, #J, #N.
+         They are reflecting on recent rumours circulated in the printed press.
+         #K segues to stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #K has longstanding vendettas against #a, #A.
+         #K is lying about #A being the 'CHALLENGER' in their midst (earlier, #L told #K this was actually #J).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #A.
+

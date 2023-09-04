@@ -1,0 +1,94 @@
+{
+  "Rumour": {
+    "SLOTS": {
+      "events": [ "?eventA" ],
+      "values": [ "?actor", "?audience" ]
+    },
+    "CONSTRAINTS": [
+      [ "?eventA", "action", "talk" ],
+      [ "?eventA", "actor", "?actor" ],
+      [ "?eventA", "audience", "?audience" ]
+    ],
+    "RELATIONS": [
+      [ "sequence", "?eventA", "?eventB" ],
+      [ "distinct", "?actor", "?audience" ]
+    ]
+  },
+  "He Said, She Said": {
+    "SLOTS": {
+      "events": [ "?event A", "?event B" ],
+      "values": [ "?initial line A", "?final line A", "?actor A", "?accused A", "?initial line B", "?final line B", "?actor B", "?accused B" ]
+    },
+    "CONSTRAINTS": [
+      [ "?event A", "action", "talk" ],
+      [ "?event A", "initial line", "?initial line A" ],
+      [ "?event A", "final line", "?final line A" ],
+      [ "?event A", "actor", "?actor A" ],
+      [ "?event A", "all accused", "?accused A" ],
+      [ "?event B", "action", "talk" ],
+      [ "?event B", "initial line", "?initial line B" ],
+      [ "?event B", "final line", "?final line B" ],
+      [ "?event B", "actor", "?actor B" ],
+      [ "?event B", "all accused", "?accused B" ]
+    ],
+    "RELATIONS": [
+      [ "sequence", "?event A", "?event B" ],
+      [ "distinct", "?actor A", "?actor B" ]
+    ]
+  },
+  "Meet the Candidates": {
+    "SLOTS": {
+      "events": [
+        "?event a.i",
+        "?event 1.i",
+        "?event 1.ii",
+        "?event 2.i",
+        "?event 2.ii"
+      ],
+      "values": [
+        "?focalisation",
+        "?actor a.i",
+        "?accused a.i",
+        "?candidate 1",
+        "?actor 1.i",
+        "?actor 1.ii",
+        "?audience 1.ii",
+        "?candidate 2",
+        "?actor 2.i",
+        "?actor 2.ii",
+        "?audience 2.ii"
+      ]
+    },
+    "CONSTRAINTS": [
+      [ "?event a.i", "focalisation", "?focalisation" ],
+      [ "?event a.i", "action", "talk" ],
+      [ "?event a.i", "actor", "?actor a.i" ],
+      [ "?event a.i", "all accused", "?accused a.i" ],
+      [ "?event 1.i", "action", "talk" ],
+      [ "?event 1.i", "actor", "?actor 1.i" ],
+      [ "?event 1.i", "all accused", "?candidate 1" ],
+      [ "?event 1.ii", "action", "talk" ],
+      [ "?event 1.ii", "actor", "?actor 1.ii" ],
+      [ "?event 1.ii", "audience", "?audience 1.ii" ],
+      [ "?event 2.i", "action", "talk" ],
+      [ "?event 2.i", "actor", "?actor 2.i" ],
+      [ "?event 2.i", "all accused", "?candidate 2" ],
+      [ "?event 2.ii", "action", "talk" ],
+      [ "?event 2.ii", "actor", "?actor 2.ii" ],
+      [ "?event 2.ii", "audience", "?audience 2.ii" ]
+    ],
+    "RELATIONS": [
+      [ "within", "?candidate 1", "#A", "#H", "#J" ],
+      [ "within", "?candidate 2", "#A", "#H", "#J" ],
+      [ "within", "?actor 1.ii", "?focalisation", "?candidate 1" ],
+      [ "within", "?audience 1.ii", "?focalisation", "?candidate 1" ],
+      [ "within", "?actor 2.ii", "?focalisation", "?candidate 2" ],
+      [ "within", "?audience 2.ii", "?focalisation", "?candidate 2" ],
+      [ "distinct", "?focalisation", "?candidate 1", "?candidate 2" ],
+      [ "distinct", "?focalisation", "?actor 1.i" ],
+      [ "distinct", "?focalisation", "?actor 2.i" ],
+      [ "distinct", "?actor 1.ii", "?audience 1.ii" ],
+      [ "distinct", "?actor 2.ii", "?audience 2.ii" ]
+    ]
+  }
+}

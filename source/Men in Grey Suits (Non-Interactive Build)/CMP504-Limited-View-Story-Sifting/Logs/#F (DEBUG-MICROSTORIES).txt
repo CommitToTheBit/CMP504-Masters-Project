@@ -1,0 +1,2431 @@
+RUMOUR, MICROSTORY #1:
+         NARRATIVE OF #F:
+         7.00pm, the corridor: #F is talking with #I.
+         #I segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place one-on-one. No one overhears.
+
+RUMOUR, MICROSTORY #2:
+         NARRATIVE OF #F:
+         7.01pm, the corridor: #F is talking with #I.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #F segues to reflecting on recent rumours circulated in the printed press.
+         The conversation takes place one-on-one. No one overhears.
+
+RUMOUR, MICROSTORY #3:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+
+RUMOUR, MICROSTORY #4:
+         NARRATIVE OF #F:
+         7.03pm, the corridor: #F is talking with #I, #N.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #F segues to worrying about threats to the party, within and without.
+         The conversation takes place openly. Still, no one overhears.
+
+RUMOUR, MICROSTORY #5:
+         NARRATIVE OF #F:
+         7.03pm, the corridor: #F is talking with #I, #N.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #F segues to worrying about threats to the party, within and without.
+         The conversation takes place openly. Still, no one overhears.
+
+RUMOUR, MICROSTORY #6:
+         NARRATIVE OF #F:
+         7.03pm, the downstairs: #C is talking with someone out of sight.
+         They are worrying about threats to the party, within and without.
+         #C segues to gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2} (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. Still, #F overhears.
+
+RUMOUR, MICROSTORY #7:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+
+RUMOUR, MICROSTORY #8:
+         NARRATIVE OF #F:
+         7.05pm, the corridor: #F is talking with #B, #I.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #F segues to pondering why we've all been convened here tonight.
+         The conversation takes place openly. Still, no one overhears.
+
+RUMOUR, MICROSTORY #9:
+         NARRATIVE OF #F:
+         7.05pm, the corridor: #F is talking with #B, #I.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #F segues to pondering why we've all been convened here tonight.
+         The conversation takes place openly. Still, no one overhears.
+
+RUMOUR, MICROSTORY #10:
+         NARRATIVE OF #F:
+         7.06pm, the corridor: #F is talking with #I.
+         They are pondering why we've all been convened here tonight.
+         #I segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol (a rumour hitherto unheard by #F).
+         #F knows #I has a longstanding vendetta against #K.
+         The conversation takes place one-on-one. No one overhears.
+         * MARXIST STUDENT: #K.
+
+RUMOUR, MICROSTORY #11:
+         NARRATIVE OF #F:
+         7.06pm, the library: #D is talking with #R, #T.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #D segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F knows #D is supposedly loyal to #a.
+         The conversation takes place openly. #F overhears.
+         * COLLEAGUE: #a.
+
+RUMOUR, MICROSTORY #12:
+         NARRATIVE OF #F:
+         7.06pm, the library: #D is talking with #R, #T.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #D segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F knows #D is supposedly loyal to #a.
+         The conversation takes place openly. #F overhears.
+         * COLLEAGUE: #a.
+
+RUMOUR, MICROSTORY #13:
+         NARRATIVE OF #F:
+         7.06pm, the library: #D is talking with #R, #T.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #D segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F knows #D is supposedly loyal to #a.
+         The conversation takes place openly. #F overhears.
+         * COLLEAGUE: #a.
+
+RUMOUR, MICROSTORY #14:
+         NARRATIVE OF #F:
+         7.07pm, the corridor: #F is talking with #I.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place one-on-one. No one overhears.
+         * #K: #K.
+
+RUMOUR, MICROSTORY #15:
+         NARRATIVE OF #F:
+         7.07pm, the library: #T is talking with #D, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #T segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+RUMOUR, MICROSTORY #16:
+         NARRATIVE OF #F:
+         7.07pm, the library: #T is talking with #D, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #T segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+RUMOUR, MICROSTORY #17:
+         NARRATIVE OF #F:
+         7.07pm, the library: #T is talking with #D, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #T segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+RUMOUR, MICROSTORY #18:
+         NARRATIVE OF #F:
+         7.08pm, the corridor: #F is talking with #I, #O.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #I segues to conceding that {#K} does represent a small but frighteningly influential faction of our coalition (a rumour hitherto unheard by #F).
+         #F knows #I has a longstanding vendetta against #K.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+
+RUMOUR, MICROSTORY #19:
+         NARRATIVE OF #F:
+         7.08pm, the corridor: #F is talking with #I, #O.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #I segues to conceding that {#K} does represent a small but frighteningly influential faction of our coalition (a rumour hitherto unheard by #F).
+         #F knows #I has a longstanding vendetta against #K.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+
+RUMOUR, MICROSTORY #20:
+         NARRATIVE OF #F:
+         7.09pm, the corridor: #F is talking with #I.
+         They are conceding that {#K} does represent a small but frighteningly influential faction of our coalition.
+         #F segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place one-on-one. No one overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+RUMOUR, MICROSTORY #21:
+         NARRATIVE OF #F:
+         7.09pm, the library: #T is talking with #D, #R.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #T segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+RUMOUR, MICROSTORY #22:
+         NARRATIVE OF #F:
+         7.09pm, the library: #T is talking with #D, #R.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #T segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+RUMOUR, MICROSTORY #23:
+         NARRATIVE OF #F:
+         7.09pm, the library: #T is talking with #D, #R.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #T segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+RUMOUR, MICROSTORY #24:
+         NARRATIVE OF #F:
+         7.10pm, the corridor: #F is talking with #I.
+         They are saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         #I segues to making small talk about The Ashes.
+         The conversation takes place one-on-one. No one overhears.
+
+RUMOUR, MICROSTORY #25:
+         NARRATIVE OF #F:
+         7.10pm, the lounge: #M is talking with #E, #H.
+         They are warning that, apparently, The Standard's got ahold of something major.
+         #M segues to pondering why we've all been convened here tonight.
+         The conversation takes place openly. #F overhears.
+
+RUMOUR, MICROSTORY #26:
+         NARRATIVE OF #F:
+         7.10pm, the lounge: #M is talking with #E, #H.
+         They are warning that, apparently, The Standard's got ahold of something major.
+         #M segues to pondering why we've all been convened here tonight.
+         The conversation takes place openly. #F overhears.
+
+RUMOUR, MICROSTORY #27:
+         NARRATIVE OF #F:
+         7.10pm, the lounge: #M is talking with #E, #H.
+         They are warning that, apparently, The Standard's got ahold of something major.
+         #M segues to pondering why we've all been convened here tonight.
+         The conversation takes place openly. #F overhears.
+
+RUMOUR, MICROSTORY #28:
+         NARRATIVE OF #F:
+         7.10pm, the downstairs: #J is talking with someone out of sight.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #J segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         The conversation takes place with no one else around. Still, #F overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+
+RUMOUR, MICROSTORY #29:
+         NARRATIVE OF #F:
+         7.11pm, the corridor: #F is talking with #I, #R, #S.
+         They are making small talk about The Ashes.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+
+RUMOUR, MICROSTORY #30:
+         NARRATIVE OF #F:
+         7.11pm, the corridor: #F is talking with #I, #R, #S.
+         They are making small talk about The Ashes.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+
+RUMOUR, MICROSTORY #31:
+         NARRATIVE OF #F:
+         7.11pm, the corridor: #F is talking with #I, #R, #S.
+         They are making small talk about The Ashes.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+
+RUMOUR, MICROSTORY #32:
+         NARRATIVE OF #F:
+         7.11pm, the downstairs: #K is talking with someone out of sight.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #K segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. Still, #F overhears.
+         * SCAPEGOAT: #d.
+
+RUMOUR, MICROSTORY #33:
+         NARRATIVE OF #F:
+         7.12pm, the corridor: #F is talking with #D, #I.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #I segues to conceding that {#K} does represent a small but frighteningly influential faction of our coalition.
+         #F knows #I has a longstanding vendetta against #K.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+
+RUMOUR, MICROSTORY #34:
+         NARRATIVE OF #F:
+         7.12pm, the corridor: #F is talking with #D, #I.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #I segues to conceding that {#K} does represent a small but frighteningly influential faction of our coalition.
+         #F knows #I has a longstanding vendetta against #K.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+
+RUMOUR, MICROSTORY #35:
+         NARRATIVE OF #F:
+         7.13pm, the corridor: #F is talking with #I.
+         They are conceding that {#K} does represent a small but frighteningly influential faction of our coalition.
+         #F segues to spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         The conversation takes place one-on-one. No one overhears.
+
+RUMOUR, MICROSTORY #36:
+         NARRATIVE OF #F:
+         7.13pm, the lounge: #M is talking with #E, #H.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+RUMOUR, MICROSTORY #37:
+         NARRATIVE OF #F:
+         7.13pm, the lounge: #M is talking with #E, #H.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+RUMOUR, MICROSTORY #38:
+         NARRATIVE OF #F:
+         7.13pm, the lounge: #M is talking with #E, #H.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+RUMOUR, MICROSTORY #39:
+         NARRATIVE OF #F:
+         7.13pm, the downstairs: #J is talking with someone out of sight.
+         They are worrying about threats to the party, within and without.
+         #J segues to gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+         The conversation takes place with no one else around. Still, #F overhears.
+
+RUMOUR, MICROSTORY #40:
+         NARRATIVE OF #F:
+         7.14pm, the corridor: #F is talking with #I.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #I segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         The conversation takes place one-on-one. No one overhears.
+         * SCAPEGOAT: #d.
+
+RUMOUR, MICROSTORY #41:
+         NARRATIVE OF #F:
+         7.15pm, the corridor: #F is talking with #I.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #D).
+         #F has a longstanding vendetta against #H.
+         The conversation takes place one-on-one. No one overhears.
+         * COLLEAGUE: #H.
+
+RUMOUR, MICROSTORY #42:
+         NARRATIVE OF #F:
+         7.17pm, the corridor: #F is talking with #K.
+         #F segues to worrying about threats to the party, within and without.
+         The conversation takes place one-on-one. No one overhears.
+
+RUMOUR, MICROSTORY #43:
+         NARRATIVE OF #F:
+         7.17pm, the lounge: #E is talking with #M.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #E segues to spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         The conversation takes place one-on-one. Still, #F overhears.
+
+RUMOUR, MICROSTORY #44:
+         NARRATIVE OF #F:
+         7.17pm, the lounge: #E is talking with #M.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #E segues to spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         The conversation takes place one-on-one. Still, #F overhears.
+
+RUMOUR, MICROSTORY #45:
+         NARRATIVE OF #F:
+         7.19pm, the downstairs: #J is talking with #B, #H.
+         #J segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place with no one else around. Still, #F overhears.
+
+RUMOUR, MICROSTORY #46:
+         NARRATIVE OF #F:
+         7.19pm, the downstairs: #J is talking with #B, #H.
+         #J segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place with no one else around. Still, #F overhears.
+
+RUMOUR, MICROSTORY #47:
+         NARRATIVE OF #F:
+         7.19pm, the downstairs: #J is talking with #B, #H.
+         #J segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place with no one else around. Still, #F overhears.
+
+RUMOUR, MICROSTORY #48:
+         NARRATIVE OF #F:
+         7.21pm, the corridor: #F is talking with #P.
+         #F segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place one-on-one. No one overhears.
+
+RUMOUR, MICROSTORY #49:
+         NARRATIVE OF #F:
+         7.22pm, the library: #R is talking with #T.
+         They are passing on that the opposition are planning to trigger a vote of no confidence.
+         #R segues to alleging the Americans want {#a} gone after a series of diplomatic faux pas (a rumour hitherto unheard by #F).
+         The conversation takes place one-on-one. Still, #F overhears.
+         * #a: #a.
+
+RUMOUR, MICROSTORY #50:
+         NARRATIVE OF #F:
+         7.22pm, the library: #R is talking with #T.
+         They are passing on that the opposition are planning to trigger a vote of no confidence.
+         #R segues to alleging the Americans want {#a} gone after a series of diplomatic faux pas (a rumour hitherto unheard by #F).
+         The conversation takes place one-on-one. Still, #F overhears.
+         * #a: #a.
+
+RUMOUR, MICROSTORY #51:
+         NARRATIVE OF #F:
+         7.24pm, the downstairs: #H is talking with someone out of sight.
+         They are gossiping that the papers are likely to run that {ADULTERER #1}'s been cheating on his wife with {ADULTERER #2}.
+         #H segues to pondering why we've all been convened here tonight.
+         The conversation takes place with no one else around. Still, #F overhears.
+
+RUMOUR, MICROSTORY #52:
+         NARRATIVE OF #F:
+         7.27pm, the library: #F is talking with #M, #T.
+         #F segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place openly. Still, no one overhears.
+
+RUMOUR, MICROSTORY #53:
+         NARRATIVE OF #F:
+         7.27pm, the library: #F is talking with #M, #T.
+         #F segues to fretting about the next round of 'Home Office Hearings'.
+         The conversation takes place openly. Still, no one overhears.
+
+RUMOUR, MICROSTORY #54:
+         NARRATIVE OF #F:
+         7.28pm, the library: #F is talking with #M, #T.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #M segues to making small talk about The Ashes.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #55:
+         NARRATIVE OF #F:
+         7.28pm, the library: #F is talking with #M, #T.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #M segues to making small talk about The Ashes.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #56:
+         NARRATIVE OF #F:
+         7.29pm, the library: #F is talking with #M, #T.
+         They are making small talk about The Ashes.
+         #T segues to worrying about threats to the party, within and without.
+         The conversation takes place openly. Still, no one overhears.
+
+RUMOUR, MICROSTORY #57:
+         NARRATIVE OF #F:
+         7.29pm, the library: #F is talking with #M, #T.
+         They are making small talk about The Ashes.
+         #T segues to worrying about threats to the party, within and without.
+         The conversation takes place openly. Still, no one overhears.
+
+RUMOUR, MICROSTORY #58:
+         NARRATIVE OF #F:
+         7.30pm, the library: #F is talking with #C, #I, #J, #M, #T.
+         They are worrying about threats to the party, within and without.
+         #F segues to grumbling about the recent weather.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #59:
+         NARRATIVE OF #F:
+         7.30pm, the library: #F is talking with #C, #I, #J, #M, #T.
+         They are worrying about threats to the party, within and without.
+         #F segues to grumbling about the recent weather.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #60:
+         NARRATIVE OF #F:
+         7.30pm, the library: #F is talking with #C, #I, #J, #M, #T.
+         They are worrying about threats to the party, within and without.
+         #F segues to grumbling about the recent weather.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #61:
+         NARRATIVE OF #F:
+         7.30pm, the library: #F is talking with #C, #I, #J, #M, #T.
+         They are worrying about threats to the party, within and without.
+         #F segues to grumbling about the recent weather.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #62:
+         NARRATIVE OF #F:
+         7.30pm, the library: #F is talking with #C, #I, #J, #M, #T.
+         They are worrying about threats to the party, within and without.
+         #F segues to grumbling about the recent weather.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #63:
+         NARRATIVE OF #F:
+         7.31pm, the library: #F is talking with #C, #I, #J, #M, #T.
+         They are grumbling about the recent weather.
+         #C segues to reflecting on recent rumours circulated in the printed press.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #64:
+         NARRATIVE OF #F:
+         7.31pm, the library: #F is talking with #C, #I, #J, #M, #T.
+         They are grumbling about the recent weather.
+         #C segues to reflecting on recent rumours circulated in the printed press.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #65:
+         NARRATIVE OF #F:
+         7.31pm, the library: #F is talking with #C, #I, #J, #M, #T.
+         They are grumbling about the recent weather.
+         #C segues to reflecting on recent rumours circulated in the printed press.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #66:
+         NARRATIVE OF #F:
+         7.31pm, the library: #F is talking with #C, #I, #J, #M, #T.
+         They are grumbling about the recent weather.
+         #C segues to reflecting on recent rumours circulated in the printed press.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #67:
+         NARRATIVE OF #F:
+         7.31pm, the library: #F is talking with #C, #I, #J, #M, #T.
+         They are grumbling about the recent weather.
+         #C segues to reflecting on recent rumours circulated in the printed press.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #68:
+         NARRATIVE OF #F:
+         7.32pm, the library: #F is talking with #C, #I, #M, #T.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place openly. Still, no one overhears.
+         * SOVIET GRANDEE: #F.
+
+RUMOUR, MICROSTORY #69:
+         NARRATIVE OF #F:
+         7.32pm, the library: #F is talking with #C, #I, #M, #T.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place openly. Still, no one overhears.
+         * SOVIET GRANDEE: #F.
+
+RUMOUR, MICROSTORY #70:
+         NARRATIVE OF #F:
+         7.32pm, the library: #F is talking with #C, #I, #M, #T.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place openly. Still, no one overhears.
+         * SOVIET GRANDEE: #F.
+
+RUMOUR, MICROSTORY #71:
+         NARRATIVE OF #F:
+         7.32pm, the library: #F is talking with #C, #I, #M, #T.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place openly. Still, no one overhears.
+         * SOVIET GRANDEE: #F.
+
+RUMOUR, MICROSTORY #72:
+         NARRATIVE OF #F:
+         7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+RUMOUR, MICROSTORY #73:
+         NARRATIVE OF #F:
+         7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+RUMOUR, MICROSTORY #74:
+         NARRATIVE OF #F:
+         7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+RUMOUR, MICROSTORY #75:
+         NARRATIVE OF #F:
+         7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+RUMOUR, MICROSTORY #76:
+         NARRATIVE OF #F:
+         7.34pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #T segues to suggesting {#A} organised this evening as his grand return to politics (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. No one overhears.
+         * #A: #A.
+
+RUMOUR, MICROSTORY #77:
+         NARRATIVE OF #F:
+         7.34pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #T segues to suggesting {#A} organised this evening as his grand return to politics (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. No one overhears.
+         * #A: #A.
+
+RUMOUR, MICROSTORY #78:
+         NARRATIVE OF #F:
+         7.34pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #T segues to suggesting {#A} organised this evening as his grand return to politics (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. No one overhears.
+         * #A: #A.
+
+RUMOUR, MICROSTORY #79:
+         NARRATIVE OF #F:
+         7.34pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #T segues to suggesting {#A} organised this evening as his grand return to politics (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. No one overhears.
+         * #A: #A.
+
+RUMOUR, MICROSTORY #80:
+         NARRATIVE OF #F:
+         7.35pm, the library: #F is talking with #C, #I, #M, #T.
+         They are suggesting {#A} organised this evening as his grand return to politics.
+         #C segues to making small talk about The Ashes.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #81:
+         NARRATIVE OF #F:
+         7.35pm, the library: #F is talking with #C, #I, #M, #T.
+         They are suggesting {#A} organised this evening as his grand return to politics.
+         #C segues to making small talk about The Ashes.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #82:
+         NARRATIVE OF #F:
+         7.35pm, the library: #F is talking with #C, #I, #M, #T.
+         They are suggesting {#A} organised this evening as his grand return to politics.
+         #C segues to making small talk about The Ashes.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #83:
+         NARRATIVE OF #F:
+         7.35pm, the library: #F is talking with #C, #I, #M, #T.
+         They are suggesting {#A} organised this evening as his grand return to politics.
+         #C segues to making small talk about The Ashes.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #84:
+         NARRATIVE OF #F:
+         7.36pm, the library: #F is talking with #C, #I, #M, #T.
+         They are making small talk about The Ashes.
+         #I segues to spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #85:
+         NARRATIVE OF #F:
+         7.36pm, the library: #F is talking with #C, #I, #M, #T.
+         They are making small talk about The Ashes.
+         #I segues to spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #86:
+         NARRATIVE OF #F:
+         7.36pm, the library: #F is talking with #C, #I, #M, #T.
+         They are making small talk about The Ashes.
+         #I segues to spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #87:
+         NARRATIVE OF #F:
+         7.36pm, the library: #F is talking with #C, #I, #M, #T.
+         They are making small talk about The Ashes.
+         #I segues to spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #88:
+         NARRATIVE OF #F:
+         7.37pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #K told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+
+RUMOUR, MICROSTORY #89:
+         NARRATIVE OF #F:
+         7.37pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #K told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+
+RUMOUR, MICROSTORY #90:
+         NARRATIVE OF #F:
+         7.37pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #K told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+
+RUMOUR, MICROSTORY #91:
+         NARRATIVE OF #F:
+         7.37pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #K told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+
+RUMOUR, MICROSTORY #92:
+         NARRATIVE OF #F:
+         7.38pm, the library: #F is talking with #C, #M, #T.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #M segues to pondering why we've all been convened here tonight.
+         The conversation takes place openly. Still, no one overhears.
+
+RUMOUR, MICROSTORY #93:
+         NARRATIVE OF #F:
+         7.38pm, the library: #F is talking with #C, #M, #T.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #M segues to pondering why we've all been convened here tonight.
+         The conversation takes place openly. Still, no one overhears.
+
+RUMOUR, MICROSTORY #94:
+         NARRATIVE OF #F:
+         7.38pm, the library: #F is talking with #C, #M, #T.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #M segues to pondering why we've all been convened here tonight.
+         The conversation takes place openly. Still, no one overhears.
+
+RUMOUR, MICROSTORY #95:
+         NARRATIVE OF #F:
+         7.39pm, the library: #F is talking with #C, #M, #T.
+         They are pondering why we've all been convened here tonight.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place with no one else around. No one overhears.
+         * MARXIST STUDENT: #H.
+
+RUMOUR, MICROSTORY #96:
+         NARRATIVE OF #F:
+         7.39pm, the library: #F is talking with #C, #M, #T.
+         They are pondering why we've all been convened here tonight.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place with no one else around. No one overhears.
+         * MARXIST STUDENT: #H.
+
+RUMOUR, MICROSTORY #97:
+         NARRATIVE OF #F:
+         7.39pm, the library: #F is talking with #C, #M, #T.
+         They are pondering why we've all been convened here tonight.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place with no one else around. No one overhears.
+         * MARXIST STUDENT: #H.
+
+RUMOUR, MICROSTORY #98:
+         NARRATIVE OF #F:
+         7.40pm, the library: #F is talking with #C, #M, #T.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #T segues to theorising these hearings are actually Government-sanctioned, a deliberate distraction from real scandals (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #99:
+         NARRATIVE OF #F:
+         7.40pm, the library: #F is talking with #C, #M, #T.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #T segues to theorising these hearings are actually Government-sanctioned, a deliberate distraction from real scandals (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. No one overhears.
+
+RUMOUR, MICROSTORY #100:
+         NARRATIVE OF #F:
+         7.40pm, the library: #F is talking with #C, #M, #T.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #T segues to theorising these hearings are actually Government-sanctioned, a deliberate distraction from real scandals (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. No one overhears.
+
+HE SAID, SHE SAID, MICROSTORY #1:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.06pm, the library: #D is talking with #R, #T.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #D segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F knows #D is supposedly loyal to #a.
+         The conversation takes place openly. #F overhears.
+         * COLLEAGUE: #a.
+
+HE SAID, SHE SAID, MICROSTORY #2:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.07pm, the corridor: #F is talking with #I.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place one-on-one. No one overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #3:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.07pm, the library: #T is talking with #D, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #T segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+HE SAID, SHE SAID, MICROSTORY #4:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.09pm, the corridor: #F is talking with #I.
+         They are conceding that {#K} does represent a small but frighteningly influential faction of our coalition.
+         #F segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place one-on-one. No one overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+HE SAID, SHE SAID, MICROSTORY #5:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.09pm, the library: #T is talking with #D, #R.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #T segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #6:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.11pm, the corridor: #F is talking with #I, #R, #S.
+         They are making small talk about The Ashes.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+
+HE SAID, SHE SAID, MICROSTORY #7:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.11pm, the downstairs: #K is talking with someone out of sight.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #K segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. Still, #F overhears.
+         * SCAPEGOAT: #d.
+
+HE SAID, SHE SAID, MICROSTORY #8:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.13pm, the lounge: #M is talking with #E, #H.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #9:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.15pm, the corridor: #F is talking with #I.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #D).
+         #F has a longstanding vendetta against #H.
+         The conversation takes place one-on-one. No one overhears.
+         * COLLEAGUE: #H.
+
+HE SAID, SHE SAID, MICROSTORY #10:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.22pm, the library: #R is talking with #T.
+         They are passing on that the opposition are planning to trigger a vote of no confidence.
+         #R segues to alleging the Americans want {#a} gone after a series of diplomatic faux pas (a rumour hitherto unheard by #F).
+         The conversation takes place one-on-one. Still, #F overhears.
+         * #a: #a.
+
+HE SAID, SHE SAID, MICROSTORY #11:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #12:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #13:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #14:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.34pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #T segues to suggesting {#A} organised this evening as his grand return to politics (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. No one overhears.
+         * #A: #A.
+
+HE SAID, SHE SAID, MICROSTORY #15:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.37pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #K told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+
+HE SAID, SHE SAID, MICROSTORY #16:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.39pm, the library: #F is talking with #C, #M, #T.
+         They are pondering why we've all been convened here tonight.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place with no one else around. No one overhears.
+         * MARXIST STUDENT: #H.
+
+HE SAID, SHE SAID, MICROSTORY #17:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.42pm, the drawing room: #F is talking with #R, #S.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #R segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         The conversation takes place openly. Still, no one overhears.
+         * SCAPEGOAT: #d.
+
+HE SAID, SHE SAID, MICROSTORY #18:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.44pm, the drawing room: #F is talking with #R, #S.
+         They are pondering why we've all been convened here tonight.
+         #R segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #19:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.44pm, the drawing room: #F is talking with #R, #S.
+         They are pondering why we've all been convened here tonight.
+         #R segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #20:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.44pm, the drawing room: #F is talking with #R, #S.
+         They are pondering why we've all been convened here tonight.
+         #R segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #21:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.47pm, the drawing room: #F is talking with #R, #S.
+         They are passing on that the opposition are planning to trigger a vote of no confidence.
+         #S segues to alleging the Americans want {#a} gone after a series of diplomatic faux pas.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+
+HE SAID, SHE SAID, MICROSTORY #22:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.48pm, the drawing room: #F is talking with #R, #S.
+         They are alleging the Americans want {#a} gone after a series of diplomatic faux pas.
+         #R segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * #A: #A.
+
+HE SAID, SHE SAID, MICROSTORY #23:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.48pm, the drawing room: #F is talking with #R, #S.
+         They are alleging the Americans want {#a} gone after a series of diplomatic faux pas.
+         #R segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * #A: #A.
+
+HE SAID, SHE SAID, MICROSTORY #24:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.52pm, the drawing room: #F is talking with #R, #S.
+         They are making small talk about The Ashes.
+         #R segues to sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         The conversation takes place openly. Still, no one overhears.
+         * CRICKETER: #I.
+
+HE SAID, SHE SAID, MICROSTORY #25:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.53pm, the drawing room: #F is talking with #I, #R.
+         They are sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         #F segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #26:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.54pm, the drawing room: #F is talking with #I, #R.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #R segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+HE SAID, SHE SAID, MICROSTORY #27:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.56pm, the drawing room: #F is talking with #I, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F segues to implying that {#K}'s 'mystery witness' is none other than {STAR WITNESS}.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: #J.
+
+HE SAID, SHE SAID, MICROSTORY #28:
+         NARRATIVE OF #F:
+         7.02pm, the corridor: #F is talking with #I.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.56pm, the drawing room: #F is talking with #I, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F segues to implying that {#K}'s 'mystery witness' is none other than {STAR WITNESS}.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: #J.
+
+HE SAID, SHE SAID, MICROSTORY #29:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.06pm, the library: #D is talking with #R, #T.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #D segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F knows #D is supposedly loyal to #a.
+         The conversation takes place openly. #F overhears.
+         * COLLEAGUE: #a.
+
+HE SAID, SHE SAID, MICROSTORY #30:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.07pm, the corridor: #F is talking with #I.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place one-on-one. No one overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #31:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.07pm, the library: #T is talking with #D, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #T segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+HE SAID, SHE SAID, MICROSTORY #32:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.09pm, the corridor: #F is talking with #I.
+         They are conceding that {#K} does represent a small but frighteningly influential faction of our coalition.
+         #F segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place one-on-one. No one overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+HE SAID, SHE SAID, MICROSTORY #33:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.09pm, the library: #T is talking with #D, #R.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #T segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #34:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.11pm, the corridor: #F is talking with #I, #R, #S.
+         They are making small talk about The Ashes.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+
+HE SAID, SHE SAID, MICROSTORY #35:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.11pm, the downstairs: #K is talking with someone out of sight.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #K segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. Still, #F overhears.
+         * SCAPEGOAT: #d.
+
+HE SAID, SHE SAID, MICROSTORY #36:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.13pm, the lounge: #M is talking with #E, #H.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #37:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.15pm, the corridor: #F is talking with #I.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #D).
+         #F has a longstanding vendetta against #H.
+         The conversation takes place one-on-one. No one overhears.
+         * COLLEAGUE: #H.
+
+HE SAID, SHE SAID, MICROSTORY #38:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.22pm, the library: #R is talking with #T.
+         They are passing on that the opposition are planning to trigger a vote of no confidence.
+         #R segues to alleging the Americans want {#a} gone after a series of diplomatic faux pas (a rumour hitherto unheard by #F).
+         The conversation takes place one-on-one. Still, #F overhears.
+         * #a: #a.
+
+HE SAID, SHE SAID, MICROSTORY #39:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #40:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #41:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #42:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.34pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #T segues to suggesting {#A} organised this evening as his grand return to politics (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. No one overhears.
+         * #A: #A.
+
+HE SAID, SHE SAID, MICROSTORY #43:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.37pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #K told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+
+HE SAID, SHE SAID, MICROSTORY #44:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.39pm, the library: #F is talking with #C, #M, #T.
+         They are pondering why we've all been convened here tonight.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place with no one else around. No one overhears.
+         * MARXIST STUDENT: #H.
+
+HE SAID, SHE SAID, MICROSTORY #45:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.42pm, the drawing room: #F is talking with #R, #S.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #R segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         The conversation takes place openly. Still, no one overhears.
+         * SCAPEGOAT: #d.
+
+HE SAID, SHE SAID, MICROSTORY #46:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.44pm, the drawing room: #F is talking with #R, #S.
+         They are pondering why we've all been convened here tonight.
+         #R segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #47:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.44pm, the drawing room: #F is talking with #R, #S.
+         They are pondering why we've all been convened here tonight.
+         #R segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #48:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.44pm, the drawing room: #F is talking with #R, #S.
+         They are pondering why we've all been convened here tonight.
+         #R segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #49:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.47pm, the drawing room: #F is talking with #R, #S.
+         They are passing on that the opposition are planning to trigger a vote of no confidence.
+         #S segues to alleging the Americans want {#a} gone after a series of diplomatic faux pas.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+
+HE SAID, SHE SAID, MICROSTORY #50:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.48pm, the drawing room: #F is talking with #R, #S.
+         They are alleging the Americans want {#a} gone after a series of diplomatic faux pas.
+         #R segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * #A: #A.
+
+HE SAID, SHE SAID, MICROSTORY #51:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.48pm, the drawing room: #F is talking with #R, #S.
+         They are alleging the Americans want {#a} gone after a series of diplomatic faux pas.
+         #R segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * #A: #A.
+
+HE SAID, SHE SAID, MICROSTORY #52:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.52pm, the drawing room: #F is talking with #R, #S.
+         They are making small talk about The Ashes.
+         #R segues to sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         The conversation takes place openly. Still, no one overhears.
+         * CRICKETER: #I.
+
+HE SAID, SHE SAID, MICROSTORY #53:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.53pm, the drawing room: #F is talking with #I, #R.
+         They are sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         #F segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #54:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.54pm, the drawing room: #F is talking with #I, #R.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #R segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+HE SAID, SHE SAID, MICROSTORY #55:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.56pm, the drawing room: #F is talking with #I, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F segues to implying that {#K}'s 'mystery witness' is none other than {STAR WITNESS}.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: #J.
+
+HE SAID, SHE SAID, MICROSTORY #56:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.56pm, the drawing room: #F is talking with #I, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F segues to implying that {#K}'s 'mystery witness' is none other than {STAR WITNESS}.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: #J.
+
+HE SAID, SHE SAID, MICROSTORY #57:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.06pm, the library: #D is talking with #R, #T.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #D segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F knows #D is supposedly loyal to #a.
+         The conversation takes place openly. #F overhears.
+         * COLLEAGUE: #a.
+
+HE SAID, SHE SAID, MICROSTORY #58:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.07pm, the corridor: #F is talking with #I.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place one-on-one. No one overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #59:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.07pm, the library: #T is talking with #D, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #T segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+HE SAID, SHE SAID, MICROSTORY #60:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.09pm, the corridor: #F is talking with #I.
+         They are conceding that {#K} does represent a small but frighteningly influential faction of our coalition.
+         #F segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place one-on-one. No one overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+HE SAID, SHE SAID, MICROSTORY #61:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.09pm, the library: #T is talking with #D, #R.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #T segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #62:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.11pm, the corridor: #F is talking with #I, #R, #S.
+         They are making small talk about The Ashes.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+
+HE SAID, SHE SAID, MICROSTORY #63:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.11pm, the downstairs: #K is talking with someone out of sight.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #K segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. Still, #F overhears.
+         * SCAPEGOAT: #d.
+
+HE SAID, SHE SAID, MICROSTORY #64:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.13pm, the lounge: #M is talking with #E, #H.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #65:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.15pm, the corridor: #F is talking with #I.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #D).
+         #F has a longstanding vendetta against #H.
+         The conversation takes place one-on-one. No one overhears.
+         * COLLEAGUE: #H.
+
+HE SAID, SHE SAID, MICROSTORY #66:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.22pm, the library: #R is talking with #T.
+         They are passing on that the opposition are planning to trigger a vote of no confidence.
+         #R segues to alleging the Americans want {#a} gone after a series of diplomatic faux pas (a rumour hitherto unheard by #F).
+         The conversation takes place one-on-one. Still, #F overhears.
+         * #a: #a.
+
+HE SAID, SHE SAID, MICROSTORY #67:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #68:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #69:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #70:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.34pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #T segues to suggesting {#A} organised this evening as his grand return to politics (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. No one overhears.
+         * #A: #A.
+
+HE SAID, SHE SAID, MICROSTORY #71:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.37pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #K told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+
+HE SAID, SHE SAID, MICROSTORY #72:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.39pm, the library: #F is talking with #C, #M, #T.
+         They are pondering why we've all been convened here tonight.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place with no one else around. No one overhears.
+         * MARXIST STUDENT: #H.
+
+HE SAID, SHE SAID, MICROSTORY #73:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.42pm, the drawing room: #F is talking with #R, #S.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #R segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         The conversation takes place openly. Still, no one overhears.
+         * SCAPEGOAT: #d.
+
+HE SAID, SHE SAID, MICROSTORY #74:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.44pm, the drawing room: #F is talking with #R, #S.
+         They are pondering why we've all been convened here tonight.
+         #R segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #75:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.44pm, the drawing room: #F is talking with #R, #S.
+         They are pondering why we've all been convened here tonight.
+         #R segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #76:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.44pm, the drawing room: #F is talking with #R, #S.
+         They are pondering why we've all been convened here tonight.
+         #R segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #77:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.47pm, the drawing room: #F is talking with #R, #S.
+         They are passing on that the opposition are planning to trigger a vote of no confidence.
+         #S segues to alleging the Americans want {#a} gone after a series of diplomatic faux pas.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+
+HE SAID, SHE SAID, MICROSTORY #78:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.48pm, the drawing room: #F is talking with #R, #S.
+         They are alleging the Americans want {#a} gone after a series of diplomatic faux pas.
+         #R segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * #A: #A.
+
+HE SAID, SHE SAID, MICROSTORY #79:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.48pm, the drawing room: #F is talking with #R, #S.
+         They are alleging the Americans want {#a} gone after a series of diplomatic faux pas.
+         #R segues to regretting how terribly this reflects on {#a}'s stewardship, and {#A} before him.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * #A: #A.
+
+HE SAID, SHE SAID, MICROSTORY #80:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.52pm, the drawing room: #F is talking with #R, #S.
+         They are making small talk about The Ashes.
+         #R segues to sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         The conversation takes place openly. Still, no one overhears.
+         * CRICKETER: #I.
+
+HE SAID, SHE SAID, MICROSTORY #81:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.53pm, the drawing room: #F is talking with #I, #R.
+         They are sniping about how {CRICKETER} never stops talking about his Blue in cricket.
+         #F segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #82:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.54pm, the drawing room: #F is talking with #I, #R.
+         They are ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         #R segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+HE SAID, SHE SAID, MICROSTORY #83:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.56pm, the drawing room: #F is talking with #I, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F segues to implying that {#K}'s 'mystery witness' is none other than {STAR WITNESS}.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: #J.
+
+HE SAID, SHE SAID, MICROSTORY #84:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.56pm, the drawing room: #F is talking with #I, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F segues to implying that {#K}'s 'mystery witness' is none other than {STAR WITNESS}.
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: #J.
+
+HE SAID, SHE SAID, MICROSTORY #85:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.06pm, the library: #D is talking with #R, #T.
+         They are fretting about the next round of 'Home Office Hearings'.
+         #D segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F knows #D is supposedly loyal to #a.
+         The conversation takes place openly. #F overhears.
+         * COLLEAGUE: #a.
+
+HE SAID, SHE SAID, MICROSTORY #86:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.07pm, the corridor: #F is talking with #I.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place one-on-one. No one overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #87:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.07pm, the library: #T is talking with #D, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #T segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+HE SAID, SHE SAID, MICROSTORY #88:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.09pm, the corridor: #F is talking with #I.
+         They are conceding that {#K} does represent a small but frighteningly influential faction of our coalition.
+         #F segues to saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         The conversation takes place one-on-one. No one overhears.
+         * #K: #K.
+         * STAR WITNESS: UNIDENTIFIED.
+
+HE SAID, SHE SAID, MICROSTORY #89:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.09pm, the library: #T is talking with #D, #R.
+         They are divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #T segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #90:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.11pm, the corridor: #F is talking with #I, #R, #S.
+         They are making small talk about The Ashes.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place openly. Still, no one overhears.
+         * MARXIST STUDENT: #H.
+
+HE SAID, SHE SAID, MICROSTORY #91:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.11pm, the downstairs: #K is talking with someone out of sight.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #K segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. Still, #F overhears.
+         * SCAPEGOAT: #d.
+
+HE SAID, SHE SAID, MICROSTORY #92:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.13pm, the lounge: #M is talking with #E, #H.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to ruminating on {#K}'s very public allegations that Communists have penetrated the upper echelons of Her Majesty's government.
+         The conversation takes place openly. #F overhears.
+         * #K: #K.
+
+HE SAID, SHE SAID, MICROSTORY #93:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.15pm, the corridor: #F is talking with #I.
+         They are relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #D).
+         #F has a longstanding vendetta against #H.
+         The conversation takes place one-on-one. No one overhears.
+         * COLLEAGUE: #H.
+
+HE SAID, SHE SAID, MICROSTORY #94:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.22pm, the library: #R is talking with #T.
+         They are passing on that the opposition are planning to trigger a vote of no confidence.
+         #R segues to alleging the Americans want {#a} gone after a series of diplomatic faux pas (a rumour hitherto unheard by #F).
+         The conversation takes place one-on-one. Still, #F overhears.
+         * #a: #a.
+
+HE SAID, SHE SAID, MICROSTORY #95:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #96:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #97:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.33pm, the library: #F is talking with #C, #I, #M, #T.
+         They are insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #M segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         The conversation takes place openly. Still, no one overhears.
+         * #a: #a.
+         * GRANDEE #1: #D.
+         * GRANDEE #2: #E.
+
+HE SAID, SHE SAID, MICROSTORY #98:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.34pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #T segues to suggesting {#A} organised this evening as his grand return to politics (a rumour hitherto unheard by #F).
+         The conversation takes place with no one else around. No one overhears.
+         * #A: #A.
+
+HE SAID, SHE SAID, MICROSTORY #99:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.37pm, the library: #F is talking with #C, #I, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #K told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+
+HE SAID, SHE SAID, MICROSTORY #100:
+         NARRATIVE OF #F:
+         7.04pm, the corridor: #F is talking with #I.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a} (a rumour hitherto unheard by #F).
+         #F knows #I is supposedly loyal to #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.39pm, the library: #F is talking with #C, #M, #T.
+         They are pondering why we've all been convened here tonight.
+         #F segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #F has a longstanding vendetta against #H.
+         #F is lying about #H being the 'MARXIST STUDENT' in their midst (earlier, #I told #F this was actually #K).
+         The conversation takes place with no one else around. No one overhears.
+         * MARXIST STUDENT: #H.
+

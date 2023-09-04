@@ -1,0 +1,102 @@
+{
+  "Parroting": {
+    "SLOTS": {
+      "events": [ "?eventA", "?eventB" ],
+      "values": [ "?character", "?characterImplicated", "?characterInAudience", "?role", "?lineA", "?lineB" ]
+    },
+    "CONSTRAINTS": [
+      [ "?eventA", "action", "talk" ],
+      [ "?eventA", "final line", "?lineA" ],
+      [ "?eventA", "roles", "?role" ],
+      [ "?eventA", "line learned by", "?character" ],
+      [ "?eventB", "action", "talk" ],
+      [ "?eventB", "final line", "?lineB" ],
+      [ "?eventB", "roles", "?role" ],
+      [ "?eventB", "actor", "?character" ],
+      [ "?eventB", "audience", "?characterInAudience" ],
+      [ "?eventB", "all identified", "?characterImplicated" ]
+    ],
+    "RELATIONS": [
+      [ "sequence", "?eventA", "?eventB" ],
+      [ "distinct", "?character", "?characterInAudience" ],
+      [ "without interruption", "?eventA", "?eventB", "action=talk", "actor=?character", "audience=?characterInAudience", "line role=?role" ]
+    ]
+  },
+  "Telephone": {
+    "SLOTS": {
+      "events": [ "?eventA", "?eventB", "?eventC" ],
+      "values": [ "?characterA", "?characterB", "?characterC", "?characterD", "?line" ]
+    },
+    "CONSTRAINTS": [
+      [ "?eventA", "action", "talk" ],
+      [ "?eventA", "final line", "?line" ],
+      [ "?eventA", "actor", "?characterA" ],
+      [ "?eventA", "audience", "?characterB" ],
+      [ "?eventB", "action", "talk" ],
+      [ "?eventB", "final line", "?line" ],
+      [ "?eventB", "actor", "?characterB" ],
+      [ "?eventB", "audience", "?characterC" ],
+      [ "?eventC", "action", "talk" ],
+      [ "?eventC", "final line", "?line" ],
+      [ "?eventC", "actor", "?characterC" ],
+      [ "?eventC", "audience", "?characterD" ]
+    ],
+    "RELATIONS": [
+      [ "sequence", "?eventA", "?eventB", "?eventC" ],
+      [ "distinct", "?characterA", "?characterB" ],
+      [ "distinct", "?characterA", "?characterC" ],
+      [ "distinct", "?characterB", "?characterC" ],
+      [ "distinct", "?characterB", "?characterD" ],
+      [ "distinct", "?characterC", "?characterD" ],
+      [ "without interruption", "?eventA", "?eventB", "action=talk", "actor=?characterA", "audience=?characterB", "final line=?line" ],
+      [ "without interruption", "?eventA", "?eventB", "action=talk", "actor=?characterB", "audience=?characterC", "final line=?line" ],
+      [ "without interruption", "?eventB", "?eventC", "action=talk", "actor=?characterB", "audience=?characterC", "final line=?line" ],
+      [ "without interruption", "?eventB", "?eventC", "action=talk", "actor=?characterC", "audience=?characterD", "final line=?line" ]
+    ]
+  },
+  "Juxtaposition": {
+    "SLOTS": {
+      "events": [ "?eventA", "?eventB" ],
+      "values": [ "?actorA", "?audienceA", "?roleA", "?identityA", "?lineA", "?actorB", "?audienceB", "?roleB", "?identityB", "?lineB" ]
+    },
+    "CONSTRAINTS": [
+      [ "?eventA", "action", "talk" ],
+      [ "?eventA", "final line", "?lineA" ],
+      [ "?eventA", "actor", "?actorA" ],
+      [ "?eventA", "audience", "?audienceA" ],
+      [ "?eventA", "roles", "?roleA" ],
+      [ "?eventA", "all identified", "?identityA" ],
+      [ "?eventB", "action", "talk" ],
+      [ "?eventB", "final line", "?lineB" ],
+      [ "?eventB", "actor", "?actorB" ],
+      [ "?eventB", "audience", "?audienceB" ],
+      [ "?eventB", "roles", "?roleB" ],
+      [ "?eventB", "all identified", "?identityB" ]
+    ],
+    "RELATIONS": [
+      [ "simultaneous", "?eventA", "?eventB" ],
+      [ "distinct", "?actorA", "?audienceA" ],
+      [ "distinct", "?actorB", "?audienceB" ]
+    ]
+  },
+  "Whistleblower": {
+    "SLOTS": {
+      "events": [ "?eventA", "?eventB" ],
+      "values": [ "?characterA", "?characterB", "?characterC", "?line", "?confidentiality" ]
+    },
+    "CONSTRAINTS": [
+      [ "?eventA", "action", "talk" ],
+      [ "?eventA", "final line", "?line" ],
+      [ "?eventA", "actor", "?characterA" ],
+      [ "?eventA", "audience", "?characterB" ],
+      [ "?eventA", "confidentiality", "?confidentiality" ],
+      [ "?eventB", "action", "talk" ],
+      [ "?eventB", "final line", "?line" ],
+      [ "?eventB", "actor", "?characterB" ],
+      [ "?eventB", "audience", "?characterC" ]
+    ],
+    "RELATIONS": [
+      [ "sequence", "?eventA", "?eventB" ]
+    ]
+  }
+}

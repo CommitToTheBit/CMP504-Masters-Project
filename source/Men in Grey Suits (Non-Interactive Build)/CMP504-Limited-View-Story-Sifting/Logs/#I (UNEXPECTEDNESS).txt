@@ -1,0 +1,293 @@
+RUMOUR, MICROSTORY #1:
+         NARRATIVE OF #I:
+         7.55pm, the drawing room: #I is talking with #F, #H, #R.
+         They are saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         #I, confronting #F directly, segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #F).
+         #I has a longstanding vendetta against #F.
+         The conversation takes place openly. Still, no one overhears.
+         * COLLEAGUE: #F.
+
+RUMOUR, MICROSTORY #2:
+         NARRATIVE OF #I:
+         7.04pm, the corridor: #I is talking with #F.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #I has longstanding vendettas against #A, #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+
+RUMOUR, MICROSTORY #3:
+         NARRATIVE OF #I:
+         7.02pm, the corridor: #I is talking with #F.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #I has a longstanding vendetta against #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+
+RUMOUR, MICROSTORY #4:
+         NARRATIVE OF #I:
+         7.06pm, the corridor: #I is talking with #F.
+         They are pondering why we've all been convened here tonight.
+         #I segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #I has a longstanding vendetta against #K.
+         #I is lying about #K being the 'MARXIST STUDENT' in their midst (this is actually #I themself!).
+         The conversation takes place one-on-one. No one overhears.
+         * MARXIST STUDENT: #K.
+
+RUMOUR, MICROSTORY #5:
+         NARRATIVE OF #I:
+         7.26pm, the downstairs: #H is talking with #J.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #H segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #I can tell #H is misinformed about #D being the 'SOVIET GRANDEE' in their midst (#I knows this is actually #F).
+         The conversation takes place one-on-one. Still, #I overhears.
+         * SOVIET GRANDEE: #D.
+
+HE SAID, SHE SAID, MICROSTORY #1:
+         NARRATIVE OF #I:
+         7.03pm, the lounge: #E is talking with #H, #O.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #E segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #I knows #E has a longstanding vendetta against #K.
+         #I can tell #E is misinformed about #K being the 'MARXIST STUDENT' in their midst (this is actually #I themself!).
+         The conversation takes place openly. #I overhears.
+         * MARXIST STUDENT: #K.
+         Later, in 7.06pm, the corridor: #I is talking with #F.
+         They are pondering why we've all been convened here tonight.
+         #I segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #I has a longstanding vendetta against #K.
+         #I is lying about #K being the 'MARXIST STUDENT' in their midst (this is actually #I themself!).
+         The conversation takes place one-on-one. No one overhears.
+         * MARXIST STUDENT: #K.
+
+HE SAID, SHE SAID, MICROSTORY #2:
+         NARRATIVE OF #I:
+         7.06pm, the corridor: #I is talking with #F.
+         They are pondering why we've all been convened here tonight.
+         #I segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #I has a longstanding vendetta against #K.
+         #I is lying about #K being the 'MARXIST STUDENT' in their midst (this is actually #I themself!).
+         The conversation takes place one-on-one. No one overhears.
+         * MARXIST STUDENT: #K.
+         Later, in 7.08pm, the library: #R is talking with #D, #T.
+         They are saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         #R segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #I can tell #R is misinformed about #K being the 'MARXIST STUDENT' in their midst (this is actually #I themself!).
+         The conversation takes place openly. #I overhears.
+         * MARXIST STUDENT: #K.
+
+HE SAID, SHE SAID, MICROSTORY #3:
+         NARRATIVE OF #I:
+         7.06pm, the corridor: #I is talking with #F.
+         They are pondering why we've all been convened here tonight.
+         #I segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #I has a longstanding vendetta against #K.
+         #I is lying about #K being the 'MARXIST STUDENT' in their midst (this is actually #I themself!).
+         The conversation takes place one-on-one. No one overhears.
+         * MARXIST STUDENT: #K.
+         Later, in 7.42pm, the kitchens: #I is talking with #A, #B, #G, #H.
+         They are making small talk about The Ashes.
+         #A segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #I can tell #A is misinformed about #K being the 'MARXIST STUDENT' in their midst (this is actually #I themself!).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * MARXIST STUDENT: #K.
+
+HE SAID, SHE SAID, MICROSTORY #4:
+         NARRATIVE OF #I:
+         7.48pm, the kitchens: #I is talking with #A, #B, #G.
+         They are reflecting on recent rumours circulated in the printed press.
+         #A segues to stating straight out that {CHALLENGER} is prepared to run against {#a} (a rumour hitherto unheard by #I).
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * CHALLENGER: #J.
+         Later, in 7.49pm, the kitchens: #I is talking with #B, #G.
+         They are stating straight out that {CHALLENGER} is prepared to run against {#a}.
+         #I segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #I has longstanding vendettas against #A, #F.
+         The conversation takes place behind closed doors, with no one else around. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #F.
+         * GRANDEE #2: #A.
+
+HE SAID, SHE SAID, MICROSTORY #5:
+         NARRATIVE OF #I:
+         7.06pm, the corridor: #I is talking with #F.
+         They are pondering why we've all been convened here tonight.
+         #I segues to divulging that {MARXIST STUDENT} was in a Marxist reading group back at Balliol.
+         #I has a longstanding vendetta against #K.
+         #I is lying about #K being the 'MARXIST STUDENT' in their midst (this is actually #I themself!).
+         The conversation takes place one-on-one. No one overhears.
+         * MARXIST STUDENT: #K.
+         Later, in 7.11pm, the downstairs: #K is talking with someone out of sight.
+         They are asserting that the only people testifying against the cabinet have their own eyes on the leadership.
+         #K segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason (a rumour hitherto unheard by #I).
+         The conversation takes place with no one else around. Still, #I overhears.
+         * SCAPEGOAT: #d.
+
+MEET THE CANDIDATES, MICROSTORY #1:
+         NARRATIVE OF #I:
+         7.10pm, the downstairs: #J is talking with someone out of sight.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #J segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership (a rumour hitherto unheard by #I).
+         The conversation takes place with no one else around. Still, #I overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.26pm, the downstairs: #H is talking with #J.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #H segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #I can tell #H is misinformed about #D being the 'SOVIET GRANDEE' in their midst (#I knows this is actually #F).
+         The conversation takes place one-on-one. Still, #I overhears.
+         * SOVIET GRANDEE: #D.
+         Later, in 7.37pm, the library: #I is talking with #C, #F, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #I can tell #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #I told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+         Later, in 7.55pm, the drawing room: #I is talking with #F, #H, #R.
+         They are saying that {#K}'s got a 'star witness' ready to names names, by all accounts.
+         #I, confronting #F directly, segues to joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore (a joke stolen from #F).
+         #I has a longstanding vendetta against #F.
+         The conversation takes place openly. Still, no one overhears.
+         * COLLEAGUE: #F.
+         Later, in 7.56pm, the drawing room: #I is talking with #F, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F segues to implying that {#K}'s 'mystery witness' is none other than {STAR WITNESS} (a rumour hitherto unheard by #I).
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: #J.
+
+MEET THE CANDIDATES, MICROSTORY #2:
+         NARRATIVE OF #I:
+         7.10pm, the downstairs: #J is talking with someone out of sight.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #J segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership (a rumour hitherto unheard by #I).
+         The conversation takes place with no one else around. Still, #I overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.18pm, the dining room: #I is talking with #O.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #I has a longstanding vendetta against #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.26pm, the downstairs: #H is talking with #J.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #H segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #I can tell #H is misinformed about #D being the 'SOVIET GRANDEE' in their midst (#I knows this is actually #F).
+         The conversation takes place one-on-one. Still, #I overhears.
+         * SOVIET GRANDEE: #D.
+         Later, in 7.37pm, the library: #I is talking with #C, #F, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #I can tell #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #I told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+         Later, in 7.56pm, the drawing room: #I is talking with #F, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F segues to implying that {#K}'s 'mystery witness' is none other than {STAR WITNESS} (a rumour hitherto unheard by #I).
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: #J.
+
+MEET THE CANDIDATES, MICROSTORY #3:
+         NARRATIVE OF #I:
+         7.10pm, the downstairs: #J is talking with someone out of sight.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #J segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership (a rumour hitherto unheard by #I).
+         The conversation takes place with no one else around. Still, #I overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.24pm, the dining room: #I is talking with #O.
+         They are pondering why we've all been convened here tonight.
+         #I segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #I has longstanding vendettas against #A, #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.26pm, the downstairs: #H is talking with #J.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #H segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #I can tell #H is misinformed about #D being the 'SOVIET GRANDEE' in their midst (#I knows this is actually #F).
+         The conversation takes place one-on-one. Still, #I overhears.
+         * SOVIET GRANDEE: #D.
+         Later, in 7.37pm, the library: #I is talking with #C, #F, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #I can tell #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #I told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+         Later, in 7.56pm, the drawing room: #I is talking with #F, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F segues to implying that {#K}'s 'mystery witness' is none other than {STAR WITNESS} (a rumour hitherto unheard by #I).
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: #J.
+
+MEET THE CANDIDATES, MICROSTORY #4:
+         NARRATIVE OF #I:
+         7.02pm, the corridor: #I is talking with #F.
+         They are reflecting on recent rumours circulated in the printed press.
+         #I, confronting #F directly, segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #I has a longstanding vendetta against #F.
+         The conversation takes place one-on-one. No one overhears.
+         * SOVIET GRANDEE: #F.
+         Later, in 7.10pm, the downstairs: #J is talking with someone out of sight.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #J segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership (a rumour hitherto unheard by #I).
+         The conversation takes place with no one else around. Still, #I overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.26pm, the downstairs: #H is talking with #J.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #H segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #I can tell #H is misinformed about #D being the 'SOVIET GRANDEE' in their midst (#I knows this is actually #F).
+         The conversation takes place one-on-one. Still, #I overhears.
+         * SOVIET GRANDEE: #D.
+         Later, in 7.37pm, the library: #I is talking with #C, #F, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #I can tell #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #I told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+         Later, in 7.56pm, the drawing room: #I is talking with #F, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F segues to implying that {#K}'s 'mystery witness' is none other than {STAR WITNESS} (a rumour hitherto unheard by #I).
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: #J.
+
+MEET THE CANDIDATES, MICROSTORY #5:
+         NARRATIVE OF #I:
+         7.04pm, the corridor: #I is talking with #F.
+         They are worrying about threats to the party, within and without.
+         #I, confronting #F directly, segues to spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #I has longstanding vendettas against #A, #F.
+         The conversation takes place one-on-one. No one overhears.
+         * #a: #a.
+         * GRANDEE #1: #A.
+         * GRANDEE #2: #F.
+         Later, in 7.10pm, the downstairs: #J is talking with someone out of sight.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #J segues to asserting that the only people testifying against the cabinet have their own eyes on the leadership (a rumour hitherto unheard by #I).
+         The conversation takes place with no one else around. Still, #I overhears.
+         * STAR WITNESS: UNIDENTIFIED.
+         Later, in 7.26pm, the downstairs: #H is talking with #J.
+         They are spreading that several party grandees - {GRANDEE #1} and {GRANDEE #2} amongst them - are losing confidence in {#a}.
+         #H segues to insinuating {SOVIET GRANDEE} is a party higher-up with distinctly Soviet leanings.
+         #I can tell #H is misinformed about #D being the 'SOVIET GRANDEE' in their midst (#I knows this is actually #F).
+         The conversation takes place one-on-one. Still, #I overhears.
+         * SOVIET GRANDEE: #D.
+         Later, in 7.37pm, the library: #I is talking with #C, #F, #M, #T.
+         They are spreading that {#K}'s hunting for Communists on {MCCARTHY}'s explicit instructions.
+         #F segues to relaying that the 'Committee Against Subversion' is preparing to charge {SCAPEGOAT} with high treason.
+         #I can tell #F is lying about #H being the 'SCAPEGOAT' in their midst (earlier, #I told #F this was actually #d).
+         The conversation takes place with no one else around. No one overhears.
+         * SCAPEGOAT: #H.
+         Later, in 7.56pm, the drawing room: #I is talking with #F, #R.
+         They are joking they'd happily fabricate evidence against {COLLEAGUE} if they didn't have to work with them anymore.
+         #F segues to implying that {#K}'s 'mystery witness' is none other than {STAR WITNESS} (a rumour hitherto unheard by #I).
+         The conversation takes place openly. Still, no one overhears.
+         * #K: #K.
+         * STAR WITNESS: #J.
+
