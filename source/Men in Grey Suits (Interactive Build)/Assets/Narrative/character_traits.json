@@ -1,129 +1,129 @@
 {
   "#A": {
-    "ATTRIBUTES": {
-      "NAME": [ "Sir Geoffrey Coward, former Prime Minister" ],
-      "INITIAL SETTING": [ "the dining room" ],
-      "UNKNOWN VENDETTAS": [ "#a", "#H", "#J" ]
-    },
-    "STATISTICS": {
+	"ATTRIBUTES": {
+	  "NAME": [ "Sir Geoffrey Coward, former Prime Minister" ],
+	  "INITIAL SETTING": [ "the dining room" ],
+	  "UNKNOWN VENDETTAS": [ "#a", "#H", "#J" ]
+	},
+	"STATISTICS": {
 
-    }
+	}
   },
   "#B": {
-    "ATTRIBUTES": {
-      "NAME": [ "Olivia Spector, aide to Sir Geoffrey Coward" ],
-      "INITIAL SETTING": [ "the larder" ],
-      "FOLLOWING": [ "#A", "#G" ],
-      "UNKNOWN VENDETTAS": [ "#G" ]
-    },
-    "STATISTICS": {
-      "FOLLOWING SURPLUS": 3,
-      "FOLLOWING DEFICIT": -10
-    }
+	"ATTRIBUTES": {
+	  "NAME": [ "Olivia Spector, aide to Sir Geoffrey Coward" ],
+	  "INITIAL SETTING": [ "the larder" ],
+	  "FOLLOWING": [ "#A", "#G" ],
+	  "UNKNOWN VENDETTAS": [ "#G" ]
+	},
+	"STATISTICS": {
+	  "FOLLOWING SURPLUS": 3,
+	  "FOLLOWING DEFICIT": -10
+	}
   },
   "#C": {
-    "ATTRIBUTES": {
-      "NAME": [ "Old Bill, valet to Sir Geoffrey Coward" ]
-    },
-    "STATISTICS": {
+	"ATTRIBUTES": {
+	  "NAME": [ "Old Bill, valet to Sir Geoffrey Coward" ]
+	},
+	"STATISTICS": {
 
-    }
+	}
   },
   "#D": {
-    "ATTRIBUTES": {
-      "NAME": [ "Baroness Ashna Bakshi, Chairwoman of the Conservative Party" ],
-      "KNOWN LOYALTIES": [ "#A", "#a" ],
-      "KNOWN VENDETTAS": [ "#K" ],
-      "UNKNOWN VENDETTAS": [ "#A", "#a" ]
-    },
-    "STATISTICS": {
+	"ATTRIBUTES": {
+	  "NAME": [ "Baroness Ashna Bakshi, Chairwoman of the Conservative Party" ],
+	  "KNOWN LOYALTIES": [ "#A", "#a" ],
+	  "KNOWN VENDETTAS": [ "#K" ],
+	  "UNKNOWN VENDETTAS": [ "#A", "#a" ]
+	},
+	"STATISTICS": {
 
-    }
+	}
   },
   "#E": {
-    "ATTRIBUTES": {
-      "NAME": [ "Gordon Grey, Chairman of the 1922 Committee" ],
-      "KNOWN VENDETTAS": [ "#K" ],
-      "UNKNOWN VENDETTAS": [ "#J" ]
-    },
-    "STATISTICS": {
+	"ATTRIBUTES": {
+	  "NAME": [ "Gordon Grey, Chairman of the 1922 Committee" ],
+	  "KNOWN VENDETTAS": [ "#K" ],
+	  "UNKNOWN VENDETTAS": [ "#J" ]
+	},
+	"STATISTICS": {
 
-    }
+	}
   },
   "#F": {
-    "ATTRIBUTES": {
-      "NAME": [ "Mark Bohring, Chief Whip" ],
-      "KNOWN LOYALTIES": [ "#I" ],
-      "UNKNOWN VENDETTAS": [ "#H" ]
-    },
-    "STATISTICS": {
+	"ATTRIBUTES": {
+	  "NAME": [ "Mark Bohring, Chief Whip" ],
+	  "KNOWN LOYALTIES": [ "#I" ],
+	  "UNKNOWN VENDETTAS": [ "#H" ]
+	},
+	"STATISTICS": {
 
-    }
+	}
   },
   "#G": {
-    "ATTRIBUTES": {
-      "NAME": [ "Peter Tweedy, Chief of the Secret Intelligence Service" ],
-      "FOLLOWING": [ "#H" ],
-      "KNOWN LOYALTIES": [ "#A", "#a" ],
-      "UNKNOWN LOYALTIES": [ "#B" ],
-      "KNOWN VENDETTAS": [ "#H" ],
-      "UNKNOWN VENDETTAS": [ "#I" ]
-    },
-    "STATISTICS": {
-      "FOLLOWING SURPLUS": 5,
-      "FOLLOWING DEFICIT": -2
-    }
+	"ATTRIBUTES": {
+	  "NAME": [ "Peter Tweedy, Chief of the Secret Intelligence Service" ],
+	  "FOLLOWING": [ "#H" ],
+	  "KNOWN LOYALTIES": [ "#A", "#a" ],
+	  "UNKNOWN LOYALTIES": [ "#B" ],
+	  "KNOWN VENDETTAS": [ "#H" ],
+	  "UNKNOWN VENDETTAS": [ "#I" ]
+	},
+	"STATISTICS": {
+	  "FOLLOWING SURPLUS": 5,
+	  "FOLLOWING DEFICIT": -2
+	}
   },
   "#H": {
-    "ATTRIBUTES": {
-      "NAME": [ "Earl Harry Peacock, Parliamentary Under-Secretary for Foreign Affairs" ],
-      "FOLLOWING": [ "#J" ],
-      "KNOWN LOYALTIES": [ "#d" ],
-      "UNKNOWN LOYALTIES": [ "#I" ],
-      "KNOWN VENDETTAS": [ "#G" ],
-      "UNKNOWN VENDETTAS": [ "#A", "#d" ]
-    },
-    "STATISTICS": {
-      "FOLLOWING SURPLUS": 15,
-      "FOLLOWING DEFICIT": -7
-    }
+	"ATTRIBUTES": {
+	  "NAME": [ "Earl Harry Peacock, Parliamentary Under-Secretary for Foreign Affairs" ],
+	  "FOLLOWING": [ "#J" ],
+	  "KNOWN LOYALTIES": [ "#d" ],
+	  "UNKNOWN LOYALTIES": [ "#I" ],
+	  "KNOWN VENDETTAS": [ "#G" ],
+	  "UNKNOWN VENDETTAS": [ "#A", "#d" ]
+	},
+	"STATISTICS": {
+	  "FOLLOWING SURPLUS": 15,
+	  "FOLLOWING DEFICIT": -7
+	}
   },
   "#I": {
-    "ATTRIBUTES": {
-      "NAME": [ "Seb Slater, Deputy Chief Whip" ],
-      "FOLLOWING": [ "#F", "#H" ],
-      "KNOWN LOYALTIES": [ "#F" ],
-      "KNOWN VENDETTAS": [ "#K" ],
-      "UNKNOWN LOYALTIES": [ "#H" ],
-      "UNKNOWN VENDETTAS": [ "#A", "#F", "#J" ]
-    },
-    "STATISTICS": {
-      "FOLLOWING SURPLUS": 10,
-      "FOLLOWING DEFICIT": -7
-    }
+	"ATTRIBUTES": {
+	  "NAME": [ "Seb Slater, Deputy Chief Whip" ],
+	  "FOLLOWING": [ "#F", "#H" ],
+	  "KNOWN LOYALTIES": [ "#F" ],
+	  "KNOWN VENDETTAS": [ "#K" ],
+	  "UNKNOWN LOYALTIES": [ "#H" ],
+	  "UNKNOWN VENDETTAS": [ "#A", "#F", "#J" ]
+	},
+	"STATISTICS": {
+	  "FOLLOWING SURPLUS": 10,
+	  "FOLLOWING DEFICIT": -7
+	}
   },
   "#J": {
-    "ATTRIBUTES": {
-      "NAME": [ "Bart Blakely, Defence Secretary" ],
-      "FOLLOWING": [ "#A", "#K" ],
-      "UNKNOWN LOYALTIES": [ "#K" ],
-      "UNKNOWN VENDETTAS": [ "#A", "#H" ]
-    },
-    "STATISTICS": {
-      "FOLLOWING SURPLUS": 20,
-      "FOLLOWING DEFICIT": -5
-    }
+	"ATTRIBUTES": {
+	  "NAME": [ "Bart Blakely, Defence Secretary" ],
+	  "FOLLOWING": [ "#A", "#K" ],
+	  "UNKNOWN LOYALTIES": [ "#K" ],
+	  "UNKNOWN VENDETTAS": [ "#A", "#H" ]
+	},
+	"STATISTICS": {
+	  "FOLLOWING SURPLUS": 20,
+	  "FOLLOWING DEFICIT": -5
+	}
   },
   "#K": {
-    "ATTRIBUTES": {
-      "NAME": [ "Nancy Schwarz, Representative for Torquay" ],
-      "EXPLORATION": [ "COMMUNIST" ],
-      "UNKNOWN LOYALTIES": [ "#J" ],
-      "KNOWN VENDETTAS": [ "#A", "#a" ]
-    },
-    "STATISTICS": {
+	"ATTRIBUTES": {
+	  "NAME": [ "Nancy Schwarz, Representative for Torquay" ],
+	  "EXPLORATION": [ "COMMUNIST" ],
+	  "UNKNOWN LOYALTIES": [ "#J" ],
+	  "KNOWN VENDETTAS": [ "#A", "#a" ]
+	},
+	"STATISTICS": {
 
-    }
+	}
   },
   "#L": {
 
