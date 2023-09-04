@@ -28,7 +28,7 @@ public partial class SiftingUnexpectedness : Node
         return m_likelihoods is not null;
     }
 
-    // DEPRECATED: I've commented this function out, since I'm just using pre-generated likelihoods from the non-interactive build...
+    // DEPRECATED: I've commented this function out; I'm generating likelihoods manually in a console...
     /*public void SaveLikelihoods(string timestamp, List<Microanthology> controlMicroanthologies, bool temporaries = false)
     {
         Dictionary<string, Dictionary<string, Dictionary<string, Dictionary<string, float>>>> totalPropertyCounts = new Dictionary<string, Dictionary<string, Dictionary<string, Dictionary<string, float>>>>();
